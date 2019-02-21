@@ -3,7 +3,7 @@ https://hanjinda.github.io/leam_sangamon_search.github.io
 
 ## Steps
 - clone or download
-- dwonload ZIP
+- Download ZIP
 - unzip leam_sangamon_search.github.io.zip
 
 ## local test
