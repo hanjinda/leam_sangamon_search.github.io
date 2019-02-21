@@ -1,0 +1,3492 @@
+[
+ {
+   "Sector": 0,
+   "Name": "All Occupations(000000)",
+   "Sangamon": "106420",
+   "Illinois": 5903820,
+   "USA": 140400040,
+   "Share_in_total_occupation": "100",
+   "LQ_Sangamon_IL": "1",
+   "LQ_Sangamon_USA": "1"
+ },
+ {
+   "Sector": 110000,
+   "Name": "Management Occupations(110000)",
+   "Sangamon": "3970",
+   "Illinois": 425610,
+   "USA": 7090790,
+   "Share_in_total_occupation": "3.73",
+   "LQ_Sangamon_IL": "0.517",
+   "LQ_Sangamon_USA": "0.739"
+ },
+ {
+   "Sector": 111011,
+   "Name": "Chief Executives(111011)",
+   "Sangamon": "370",
+   "Illinois": 17440,
+   "USA": 223260,
+   "Share_in_total_occupation": "0.35",
+   "LQ_Sangamon_IL": "1.172",
+   "LQ_Sangamon_USA": "2.18"
+ },
+ {
+   "Sector": 112021,
+   "Name": "Marketing Managers(112021)",
+   "Sangamon": "140",
+   "Illinois": 14030,
+   "USA": 205900,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "0.543",
+   "LQ_Sangamon_USA": "0.88"
+ },
+ {
+   "Sector": 112022,
+   "Name": "Sales Managers(112022)",
+   "Sangamon": "260",
+   "Illinois": 24150,
+   "USA": 365230,
+   "Share_in_total_occupation": "0.24",
+   "LQ_Sangamon_IL": "0.611",
+   "LQ_Sangamon_USA": "0.96"
+ },
+ {
+   "Sector": 112031,
+   "Name": "Public Relations and Fundraising Managers(112031)",
+   "Sangamon": "120",
+   "Illinois": 3830,
+   "USA": 63970,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "1.69",
+   "LQ_Sangamon_USA": "2.4"
+ },
+ {
+   "Sector": 113011,
+   "Name": "Administrative Services Managers(113011)",
+   "Sangamon": "250",
+   "Illinois": 14450,
+   "USA": 266280,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "0.953",
+   "LQ_Sangamon_USA": "1.23"
+ },
+ {
+   "Sector": 113021,
+   "Name": "Computer and Information Systems Managers(113021)",
+   "Sangamon": "140",
+   "Illinois": 15740,
+   "USA": 352510,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "0.491",
+   "LQ_Sangamon_USA": "0.52"
+ },
+ {
+   "Sector": 113031,
+   "Name": "Financial Managers(113031)",
+   "Sangamon": "480",
+   "Illinois": 35170,
+   "USA": 543300,
+   "Share_in_total_occupation": "0.45",
+   "LQ_Sangamon_IL": "0.753",
+   "LQ_Sangamon_USA": "1.16"
+ },
+ {
+   "Sector": 113051,
+   "Name": "Industrial Production Managers(113051)",
+   "Sangamon": "50",
+   "Illinois": 7630,
+   "USA": 168400,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.389",
+   "LQ_Sangamon_USA": "0.42"
+ },
+ {
+   "Sector": 113061,
+   "Name": "Purchasing Managers(113061)",
+   "Sangamon": "50",
+   "Illinois": 4210,
+   "USA": 71750,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.64",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 113071,
+   "Name": "Transportation, Storage, and Distribution Managers(113071)",
+   "Sangamon": "50",
+   "Illinois": 8360,
+   "USA": 113270,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.313",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 113111,
+   "Name": "Compensation and Benefits Managers(113111)",
+   "Sangamon": "NA",
+   "Illinois": 1000,
+   "USA": 15230,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 113121,
+   "Name": "Human Resources Managers(113121)",
+   "Sangamon": "100",
+   "Illinois": 9020,
+   "USA": 129810,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.636",
+   "LQ_Sangamon_USA": "1.05"
+ },
+ {
+   "Sector": 119021,
+   "Name": "Construction Managers(119021)",
+   "Sangamon": "110",
+   "Illinois": 8770,
+   "USA": 249650,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "0.679",
+   "LQ_Sangamon_USA": "0.57"
+ },
+ {
+   "Sector": 119032,
+   "Name": "Education Administrators, Elementary and Secondary School(119032)",
+   "Sangamon": "310",
+   "Illinois": 12100,
+   "USA": 242970,
+   "Share_in_total_occupation": "0.29",
+   "LQ_Sangamon_IL": "1.407",
+   "LQ_Sangamon_USA": "1.66"
+ },
+ {
+   "Sector": 119033,
+   "Name": "Education Administrators, Postsecondary(119033)",
+   "Sangamon": "130",
+   "Illinois": 8280,
+   "USA": 138430,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "0.838",
+   "LQ_Sangamon_USA": "1.19"
+ },
+ {
+   "Sector": 119039,
+   "Name": "Education Administrators, All Other(119039)",
+   "Sangamon": "50",
+   "Illinois": 1960,
+   "USA": 34140,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.482",
+   "LQ_Sangamon_USA": "2.03"
+ },
+ {
+   "Sector": 119041,
+   "Name": "Architectural and Engineering Managers(119041)",
+   "Sangamon": "70",
+   "Illinois": 9430,
+   "USA": 178390,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.397",
+   "LQ_Sangamon_USA": "0.5"
+ },
+ {
+   "Sector": 119051,
+   "Name": "Food Service Managers(119051)",
+   "Sangamon": "190",
+   "Illinois": 3400,
+   "USA": 201470,
+   "Share_in_total_occupation": "0.18",
+   "LQ_Sangamon_IL": "3.1",
+   "LQ_Sangamon_USA": "1.22"
+ },
+ {
+   "Sector": 119081,
+   "Name": "Lodging Managers(119081)",
+   "Sangamon": "40",
+   "Illinois": 1280,
+   "USA": 35410,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.734",
+   "LQ_Sangamon_USA": "1.32"
+ },
+ {
+   "Sector": 119111,
+   "Name": "Medical and Health Services Managers(119111)",
+   "Sangamon": "230",
+   "Illinois": 13130,
+   "USA": 332150,
+   "Share_in_total_occupation": "0.22",
+   "LQ_Sangamon_IL": "0.972",
+   "LQ_Sangamon_USA": "0.91"
+ },
+ {
+   "Sector": 119141,
+   "Name": "Property, Real Estate, and Community Association Managers(119141)",
+   "Sangamon": "70",
+   "Illinois": 8530,
+   "USA": 180290,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.455",
+   "LQ_Sangamon_USA": "0.54"
+ },
+ {
+   "Sector": 119151,
+   "Name": "Social and Community Service Managers(119151)",
+   "Sangamon": "90",
+   "Illinois": 3680,
+   "USA": 126230,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.357",
+   "LQ_Sangamon_USA": "0.96"
+ },
+ {
+   "Sector": 119199,
+   "Name": "Managers, All Other(119199)",
+   "Sangamon": "670",
+   "Illinois": 2030,
+   "USA": 403670,
+   "Share_in_total_occupation": "0.63",
+   "LQ_Sangamon_IL": "18.31",
+   "LQ_Sangamon_USA": "2.2"
+ },
+ {
+   "Sector": 130000,
+   "Name": "Business and Financial Operations Occupations(130000)",
+   "Sangamon": "6870",
+   "Illinois": 323350,
+   "USA": 7281190,
+   "Share_in_total_occupation": "6.46",
+   "LQ_Sangamon_IL": "1.17",
+   "LQ_Sangamon_USA": "1.24"
+ },
+ {
+   "Sector": 131022,
+   "Name": "Wholesale and Retail Buyers, Except Farm Products(131022)",
+   "Sangamon": "50",
+   "Illinois": 4010,
+   "USA": 109440,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.667",
+   "LQ_Sangamon_USA": "0.58"
+ },
+ {
+   "Sector": 131023,
+   "Name": "Purchasing Agents, Except Wholesale, Retail, and Farm Products(131023)",
+   "Sangamon": "120",
+   "Illinois": 10150,
+   "USA": 297600,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "0.63",
+   "LQ_Sangamon_USA": "0.51"
+ },
+ {
+   "Sector": 131031,
+   "Name": "Claims Adjusters, Examiners, and Investigators(131031)",
+   "Sangamon": "170",
+   "Illinois": 11180,
+   "USA": 274420,
+   "Share_in_total_occupation": "0.16",
+   "LQ_Sangamon_IL": "0.866",
+   "LQ_Sangamon_USA": "0.84"
+ },
+ {
+   "Sector": 131041,
+   "Name": "Compliance Officers(131041)",
+   "Sangamon": "200",
+   "Illinois": 8200,
+   "USA": 273910,
+   "Share_in_total_occupation": "0.19",
+   "LQ_Sangamon_IL": "1.324",
+   "LQ_Sangamon_USA": "0.94"
+ },
+ {
+   "Sector": 131051,
+   "Name": "Cost Estimators(131051)",
+   "Sangamon": "110",
+   "Illinois": 6750,
+   "USA": 214610,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "0.92",
+   "LQ_Sangamon_USA": "0.69"
+ },
+ {
+   "Sector": 131071,
+   "Name": "Human Resources Specialists(131071)",
+   "Sangamon": "480",
+   "Illinois": 21030,
+   "USA": 524800,
+   "Share_in_total_occupation": "0.45",
+   "LQ_Sangamon_IL": "1.253",
+   "LQ_Sangamon_USA": "1.19"
+ },
+ {
+   "Sector": 131075,
+   "Name": "Labor Relations Specialists(131075)",
+   "Sangamon": "200",
+   "Illinois": 4860,
+   "USA": 79430,
+   "Share_in_total_occupation": "0.19",
+   "LQ_Sangamon_IL": "2.262",
+   "LQ_Sangamon_USA": "3.28"
+ },
+ {
+   "Sector": 131081,
+   "Name": "Logisticians(131081)",
+   "Sangamon": "50",
+   "Illinois": 6450,
+   "USA": 146060,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.467",
+   "LQ_Sangamon_USA": "0.49"
+ },
+ {
+   "Sector": 131111,
+   "Name": "Management Analysts(131111)",
+   "Sangamon": "350",
+   "Illinois": 34280,
+   "USA": 637690,
+   "Share_in_total_occupation": "0.33",
+   "LQ_Sangamon_IL": "0.555",
+   "LQ_Sangamon_USA": "0.71"
+ },
+ {
+   "Sector": 131121,
+   "Name": "Meeting, Convention, and Event Planners(131121)",
+   "Sangamon": "40",
+   "Illinois": 4220,
+   "USA": 95850,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.505",
+   "LQ_Sangamon_USA": "0.53"
+ },
+ {
+   "Sector": 131141,
+   "Name": "Compensation, Benefits, and Job Analysis Specialists(131141)",
+   "Sangamon": "90",
+   "Illinois": 2650,
+   "USA": 79190,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.938",
+   "LQ_Sangamon_USA": "1.55"
+ },
+ {
+   "Sector": 131151,
+   "Name": "Training and Development Specialists(131151)",
+   "Sangamon": "130",
+   "Illinois": 9730,
+   "USA": 269710,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "0.709",
+   "LQ_Sangamon_USA": "0.61"
+ },
+ {
+   "Sector": 131161,
+   "Name": "Market Research Analysts and Marketing Specialists(131161)",
+   "Sangamon": "300",
+   "Illinois": 22050,
+   "USA": 558630,
+   "Share_in_total_occupation": "0.28",
+   "LQ_Sangamon_IL": "0.755",
+   "LQ_Sangamon_USA": "0.71"
+ },
+ {
+   "Sector": 131199,
+   "Name": "Business Operations Specialists, All Other(131199)",
+   "Sangamon": "2180",
+   "Illinois": 54880,
+   "USA": 958670,
+   "Share_in_total_occupation": "2.05",
+   "LQ_Sangamon_IL": "2.206",
+   "LQ_Sangamon_USA": "3"
+ },
+ {
+   "Sector": 132011,
+   "Name": "Accountants and Auditors(132011)",
+   "Sangamon": "980",
+   "Illinois": 51350,
+   "USA": 1246540,
+   "Share_in_total_occupation": "0.92",
+   "LQ_Sangamon_IL": "1.051",
+   "LQ_Sangamon_USA": "1.03"
+ },
+ {
+   "Sector": 132031,
+   "Name": "Budget Analysts(132031)",
+   "Sangamon": "50",
+   "Illinois": 1400,
+   "USA": 54700,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "2.131",
+   "LQ_Sangamon_USA": "1.3"
+ },
+ {
+   "Sector": 132041,
+   "Name": "Credit Analysts(132041)",
+   "Sangamon": "60",
+   "Illinois": 2930,
+   "USA": 72930,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.179",
+   "LQ_Sangamon_USA": "1.12"
+ },
+ {
+   "Sector": 132051,
+   "Name": "Financial Analysts(132051)",
+   "Sangamon": "100",
+   "Illinois": 13840,
+   "USA": 281610,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.393",
+   "LQ_Sangamon_USA": "0.46"
+ },
+ {
+   "Sector": 132052,
+   "Name": "Personal Financial Advisors(132052)",
+   "Sangamon": "160",
+   "Illinois": 12890,
+   "USA": 201850,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "0.691",
+   "LQ_Sangamon_USA": "1.05"
+ },
+ {
+   "Sector": 132053,
+   "Name": "Insurance Underwriters(132053)",
+   "Sangamon": "70",
+   "Illinois": 5390,
+   "USA": 91650,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.75",
+   "LQ_Sangamon_USA": "1.05"
+ },
+ {
+   "Sector": 132071,
+   "Name": "Credit Counselors(132071)",
+   "Sangamon": "40",
+   "Illinois": 1460,
+   "USA": 34110,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.598",
+   "LQ_Sangamon_USA": "1.63"
+ },
+ {
+   "Sector": 132072,
+   "Name": "Loan Officers(132072)",
+   "Sangamon": "350",
+   "Illinois": 13380,
+   "USA": 305700,
+   "Share_in_total_occupation": "0.33",
+   "LQ_Sangamon_IL": "1.442",
+   "LQ_Sangamon_USA": "1.5"
+ },
+ {
+   "Sector": 132099,
+   "Name": "Financial Specialists, All Other(132099)",
+   "Sangamon": "NA",
+   "Illinois": 6850,
+   "USA": 123270,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 150000,
+   "Name": "Computer and Mathematical Occupations(150000)",
+   "Sangamon": "3080",
+   "Illinois": 177360,
+   "USA": 4165140,
+   "Share_in_total_occupation": "2.89",
+   "LQ_Sangamon_IL": "0.97",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 151121,
+   "Name": "Computer Systems Analysts(151121)",
+   "Sangamon": "1120",
+   "Illinois": 29390,
+   "USA": 568960,
+   "Share_in_total_occupation": "1.05",
+   "LQ_Sangamon_IL": "2.114",
+   "LQ_Sangamon_USA": "2.6"
+ },
+ {
+   "Sector": 151122,
+   "Name": "Information Security Analysts(151122)",
+   "Sangamon": "NA",
+   "Illinois": 4340,
+   "USA": 96870,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 151131,
+   "Name": "Computer Programmers(151131)",
+   "Sangamon": "220",
+   "Illinois": 13350,
+   "USA": 271200,
+   "Share_in_total_occupation": "0.21",
+   "LQ_Sangamon_IL": "0.906",
+   "LQ_Sangamon_USA": "1.06"
+ },
+ {
+   "Sector": 151132,
+   "Name": "Software Developers, Applications(151132)",
+   "Sangamon": "230",
+   "Illinois": 26180,
+   "USA": 794000,
+   "Share_in_total_occupation": "0.22",
+   "LQ_Sangamon_IL": "0.487",
+   "LQ_Sangamon_USA": "0.38"
+ },
+ {
+   "Sector": 151133,
+   "Name": "Software Developers, Systems Software(151133)",
+   "Sangamon": "150",
+   "Illinois": 12570,
+   "USA": 409820,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "0.658",
+   "LQ_Sangamon_USA": "0.48"
+ },
+ {
+   "Sector": 151134,
+   "Name": "Web Developers(151134)",
+   "Sangamon": "40",
+   "Illinois": 5230,
+   "USA": 129540,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.438",
+   "LQ_Sangamon_USA": "0.42"
+ },
+ {
+   "Sector": 151141,
+   "Name": "Database Administrators(151141)",
+   "Sangamon": "80",
+   "Illinois": 4450,
+   "USA": 113730,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.957",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 151142,
+   "Name": "Network and Computer Systems Administrators(151142)",
+   "Sangamon": "370",
+   "Illinois": 14170,
+   "USA": 376820,
+   "Share_in_total_occupation": "0.35",
+   "LQ_Sangamon_IL": "1.461",
+   "LQ_Sangamon_USA": "1.3"
+ },
+ {
+   "Sector": 151143,
+   "Name": "Computer Network Architects(151143)",
+   "Sangamon": "40",
+   "Illinois": 5480,
+   "USA": 157070,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.398",
+   "LQ_Sangamon_USA": "0.33"
+ },
+ {
+   "Sector": 151151,
+   "Name": "Computer User Support Specialists(151151)",
+   "Sangamon": "260",
+   "Illinois": 25010,
+   "USA": 602840,
+   "Share_in_total_occupation": "0.24",
+   "LQ_Sangamon_IL": "0.566",
+   "LQ_Sangamon_USA": "0.56"
+ },
+ {
+   "Sector": 151152,
+   "Name": "Computer Network Support Specialists(151152)",
+   "Sangamon": "160",
+   "Illinois": 9810,
+   "USA": 188740,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "0.903",
+   "LQ_Sangamon_USA": "1.12"
+ },
+ {
+   "Sector": 151199,
+   "Name": "Computer Occupations, All Other(151199)",
+   "Sangamon": "240",
+   "Illinois": 15080,
+   "USA": 261210,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "0.898",
+   "LQ_Sangamon_USA": "1.23"
+ },
+ {
+   "Sector": 152031,
+   "Name": "Operations Research Analysts(152031)",
+   "Sangamon": "70",
+   "Illinois": 8360,
+   "USA": 109150,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.473",
+   "LQ_Sangamon_USA": "0.86"
+ },
+ {
+   "Sector": 170000,
+   "Name": "Architecture and Engineering Occupations(170000)",
+   "Sangamon": "1340",
+   "Illinois": 90510,
+   "USA": 2499050,
+   "Share_in_total_occupation": "1.26",
+   "LQ_Sangamon_IL": "0.826",
+   "LQ_Sangamon_USA": "0.71"
+ },
+ {
+   "Sector": 171011,
+   "Name": "Architects, Except Landscape and Naval(171011)",
+   "Sangamon": "60",
+   "Illinois": 4790,
+   "USA": 99860,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.675",
+   "LQ_Sangamon_USA": "0.77"
+ },
+ {
+   "Sector": 171021,
+   "Name": "Cartographers and Photogrammetrists(171021)",
+   "Sangamon": "30",
+   "Illinois": 270,
+   "USA": 12100,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "6.642",
+   "LQ_Sangamon_USA": "3.52"
+ },
+ {
+   "Sector": 172051,
+   "Name": "Civil Engineers(172051)",
+   "Sangamon": "310",
+   "Illinois": 10710,
+   "USA": 287800,
+   "Share_in_total_occupation": "0.29",
+   "LQ_Sangamon_IL": "1.573",
+   "LQ_Sangamon_USA": "1.4"
+ },
+ {
+   "Sector": 172072,
+   "Name": "Electronics Engineers, Except Computer(172072)",
+   "Sangamon": "NA",
+   "Illinois": 3120,
+   "USA": 132100,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 172081,
+   "Name": "Environmental Engineers(172081)",
+   "Sangamon": "120",
+   "Illinois": 1590,
+   "USA": 52280,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "4.288",
+   "LQ_Sangamon_USA": "3.13"
+ },
+ {
+   "Sector": 172112,
+   "Name": "Industrial Engineers(172112)",
+   "Sangamon": "40",
+   "Illinois": 13270,
+   "USA": 256550,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.154",
+   "LQ_Sangamon_USA": "0.19"
+ },
+ {
+   "Sector": 172141,
+   "Name": "Mechanical Engineers(172141)",
+   "Sangamon": "80",
+   "Illinois": 14500,
+   "USA": 285790,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.289",
+   "LQ_Sangamon_USA": "0.35"
+ },
+ {
+   "Sector": 172199,
+   "Name": "Engineers, All Other(172199)",
+   "Sangamon": "120",
+   "Illinois": 4830,
+   "USA": 123390,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "1.387",
+   "LQ_Sangamon_USA": "1.29"
+ },
+ {
+   "Sector": 173012,
+   "Name": "Electrical and Electronics Drafters(173012)",
+   "Sangamon": "NA",
+   "Illinois": 810,
+   "USA": 26750,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 173022,
+   "Name": "Civil Engineering Technicians(173022)",
+   "Sangamon": "60",
+   "Illinois": 1930,
+   "USA": 72150,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.625",
+   "LQ_Sangamon_USA": "1.04"
+ },
+ {
+   "Sector": 173027,
+   "Name": "Mechanical Engineering Technicians(173027)",
+   "Sangamon": "50",
+   "Illinois": 2630,
+   "USA": 45510,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.007",
+   "LQ_Sangamon_USA": "1.38"
+ },
+ {
+   "Sector": 173029,
+   "Name": "Engineering Technicians, Except Drafters, All Other(173029)",
+   "Sangamon": "170",
+   "Illinois": 4650,
+   "USA": 74290,
+   "Share_in_total_occupation": "0.16",
+   "LQ_Sangamon_IL": "2.081",
+   "LQ_Sangamon_USA": "3.1"
+ },
+ {
+   "Sector": 190000,
+   "Name": "Life, Physical, and Social Science Occupations(190000)",
+   "Sangamon": "560",
+   "Illinois": 34820,
+   "USA": 1152840,
+   "Share_in_total_occupation": "0.53",
+   "LQ_Sangamon_IL": "0.889",
+   "LQ_Sangamon_USA": "0.64"
+ },
+ {
+   "Sector": 192031,
+   "Name": "Chemists(192031)",
+   "Sangamon": "40",
+   "Illinois": 3380,
+   "USA": 86660,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.591",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 192041,
+   "Name": "Environmental Scientists and Specialists, Including Health(192041)",
+   "Sangamon": "130",
+   "Illinois": 2740,
+   "USA": 84250,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "2.688",
+   "LQ_Sangamon_USA": "2.07"
+ },
+ {
+   "Sector": 193031,
+   "Name": "Clinical, Counseling, and School Psychologists(193031)",
+   "Sangamon": "60",
+   "Illinois": 3930,
+   "USA": 107980,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.793",
+   "LQ_Sangamon_USA": "0.69"
+ },
+ {
+   "Sector": 194092,
+   "Name": "Forensic Science Technicians(194092)",
+   "Sangamon": "60",
+   "Illinois": 690,
+   "USA": 14800,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "4.703",
+   "LQ_Sangamon_USA": "5.22"
+ },
+ {
+   "Sector": 194099,
+   "Name": "Life, Physical, and Social Science Technicians, All Other(194099)",
+   "Sangamon": "40",
+   "Illinois": 3400,
+   "USA": 68540,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.602",
+   "LQ_Sangamon_USA": "0.71"
+ },
+ {
+   "Sector": 210000,
+   "Name": "Community and Social Service Occupations(210000)",
+   "Sangamon": "1940",
+   "Illinois": 76500,
+   "USA": 2019250,
+   "Share_in_total_occupation": "1.82",
+   "LQ_Sangamon_IL": "1.411",
+   "LQ_Sangamon_USA": "1.27"
+ },
+ {
+   "Sector": 211011,
+   "Name": "Substance Abuse and Behavioral Disorder Counselors(211011)",
+   "Sangamon": "NA",
+   "Illinois": 3340,
+   "USA": 91040,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 211012,
+   "Name": "Educational, Guidance, School, and Vocational Counselors(211012)",
+   "Sangamon": "210",
+   "Illinois": 10340,
+   "USA": 260670,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "1.138",
+   "LQ_Sangamon_USA": "1.07"
+ },
+ {
+   "Sector": 211014,
+   "Name": "Mental Health Counselors(211014)",
+   "Sangamon": "90",
+   "Illinois": 5150,
+   "USA": 139820,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.977",
+   "LQ_Sangamon_USA": "0.86"
+ },
+ {
+   "Sector": 211015,
+   "Name": "Rehabilitation Counselors(211015)",
+   "Sangamon": "40",
+   "Illinois": 2970,
+   "USA": 103030,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.809",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 211021,
+   "Name": "Child, Family, and School Social Workers(211021)",
+   "Sangamon": "380",
+   "Illinois": 12150,
+   "USA": 298840,
+   "Share_in_total_occupation": "0.36",
+   "LQ_Sangamon_IL": "1.742",
+   "LQ_Sangamon_USA": "1.69"
+ },
+ {
+   "Sector": 211022,
+   "Name": "Healthcare Social Workers(211022)",
+   "Sangamon": "170",
+   "Illinois": 5050,
+   "USA": 159310,
+   "Share_in_total_occupation": "0.16",
+   "LQ_Sangamon_IL": "1.88",
+   "LQ_Sangamon_USA": "1.41"
+ },
+ {
+   "Sector": 211023,
+   "Name": "Mental Health and Substance Abuse Social Workers(211023)",
+   "Sangamon": "110",
+   "Illinois": 3360,
+   "USA": 114040,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "1.871",
+   "LQ_Sangamon_USA": "1.31"
+ },
+ {
+   "Sector": 211029,
+   "Name": "Social Workers, All Other(211029)",
+   "Sangamon": "210",
+   "Illinois": 5210,
+   "USA": 59540,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "2.269",
+   "LQ_Sangamon_USA": "4.72"
+ },
+ {
+   "Sector": 211091,
+   "Name": "Health Educators(211091)",
+   "Sangamon": "60",
+   "Illinois": 1770,
+   "USA": 57570,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.74",
+   "LQ_Sangamon_USA": "1.27"
+ },
+ {
+   "Sector": 211093,
+   "Name": "Social and Human Service Assistants(211093)",
+   "Sangamon": "250",
+   "Illinois": 12780,
+   "USA": 360650,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "1.083",
+   "LQ_Sangamon_USA": "0.91"
+ },
+ {
+   "Sector": 211094,
+   "Name": "Community Health Workers(211094)",
+   "Sangamon": "180",
+   "Illinois": 2550,
+   "USA": 51900,
+   "Share_in_total_occupation": "0.17",
+   "LQ_Sangamon_IL": "4.017",
+   "LQ_Sangamon_USA": "4.7"
+ },
+ {
+   "Sector": 211099,
+   "Name": "Community and Social Service Specialists, All Other(211099)",
+   "Sangamon": "40",
+   "Illinois": 3530,
+   "USA": 91860,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.565",
+   "LQ_Sangamon_USA": "0.52"
+ },
+ {
+   "Sector": 212011,
+   "Name": "Clergy(212011)",
+   "Sangamon": "40",
+   "Illinois": 2090,
+   "USA": 49320,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.109",
+   "LQ_Sangamon_USA": "1.12"
+ },
+ {
+   "Sector": 230000,
+   "Name": "Legal Occupations(230000)",
+   "Sangamon": "990",
+   "Illinois": 44870,
+   "USA": 1075520,
+   "Share_in_total_occupation": "0.93",
+   "LQ_Sangamon_IL": "1.222",
+   "LQ_Sangamon_USA": "1.21"
+ },
+ {
+   "Sector": 231011,
+   "Name": "Lawyers(231011)",
+   "Sangamon": "500",
+   "Illinois": 30250,
+   "USA": 619530,
+   "Share_in_total_occupation": "0.47",
+   "LQ_Sangamon_IL": "0.922",
+   "LQ_Sangamon_USA": "1.07"
+ },
+ {
+   "Sector": 232011,
+   "Name": "Paralegals and Legal Assistants(232011)",
+   "Sangamon": "150",
+   "Illinois": 10390,
+   "USA": 277310,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "0.809",
+   "LQ_Sangamon_USA": "0.72"
+ },
+ {
+   "Sector": 232093,
+   "Name": "Title Examiners, Abstractors, and Searchers(232093)",
+   "Sangamon": "110",
+   "Illinois": 1620,
+   "USA": 54560,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "3.761",
+   "LQ_Sangamon_USA": "2.67"
+ },
+ {
+   "Sector": 250000,
+   "Name": "Education, Training, and Library Occupations(250000)",
+   "Sangamon": "6240",
+   "Illinois": 373290,
+   "USA": 8636430,
+   "Share_in_total_occupation": "5.86",
+   "LQ_Sangamon_IL": "0.922",
+   "LQ_Sangamon_USA": "0.95"
+ },
+ {
+   "Sector": 251011,
+   "Name": "Business Teachers, Postsecondary(251011)",
+   "Sangamon": "60",
+   "Illinois": 2660,
+   "USA": 83030,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.263",
+   "LQ_Sangamon_USA": "0.96"
+ },
+ {
+   "Sector": 251022,
+   "Name": "Mathematical Science Teachers, Postsecondary(251022)",
+   "Sangamon": "30",
+   "Illinois": 1920,
+   "USA": 52020,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "0.898",
+   "LQ_Sangamon_USA": "0.79"
+ },
+ {
+   "Sector": 251071,
+   "Name": "Health Specialties Teachers, Postsecondary(251071)",
+   "Sangamon": "30",
+   "Illinois": 7780,
+   "USA": 186740,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "0.232",
+   "LQ_Sangamon_USA": "0.23"
+ },
+ {
+   "Sector": 251123,
+   "Name": "English Language and Literature Teachers, Postsecondary(251123)",
+   "Sangamon": "50",
+   "Illinois": 2440,
+   "USA": 71270,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.195",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 251194,
+   "Name": "Vocational Education Teachers, Postsecondary(251194)",
+   "Sangamon": "160",
+   "Illinois": 4860,
+   "USA": 116430,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "1.838",
+   "LQ_Sangamon_USA": "1.82"
+ },
+ {
+   "Sector": 252011,
+   "Name": "Preschool Teachers, Except Special Education(252011)",
+   "Sangamon": "550",
+   "Illinois": 19230,
+   "USA": 385550,
+   "Share_in_total_occupation": "0.52",
+   "LQ_Sangamon_IL": "1.588",
+   "LQ_Sangamon_USA": "1.89"
+ },
+ {
+   "Sector": 252012,
+   "Name": "Kindergarten Teachers, Except Special Education(252012)",
+   "Sangamon": "70",
+   "Illinois": 4030,
+   "USA": 151290,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.905",
+   "LQ_Sangamon_USA": "0.57"
+ },
+ {
+   "Sector": 252021,
+   "Name": "Elementary School Teachers, Except Special Education(252021)",
+   "Sangamon": "1070",
+   "Illinois": 60960,
+   "USA": 1392660,
+   "Share_in_total_occupation": "1.01",
+   "LQ_Sangamon_IL": "0.971",
+   "LQ_Sangamon_USA": "1.01"
+ },
+ {
+   "Sector": 252022,
+   "Name": "Middle School Teachers, Except Special and Career/Technical Education(252022)",
+   "Sangamon": "610",
+   "Illinois": 31080,
+   "USA": 626310,
+   "Share_in_total_occupation": "0.57",
+   "LQ_Sangamon_IL": "1.085",
+   "LQ_Sangamon_USA": "1.28"
+ },
+ {
+   "Sector": 252031,
+   "Name": "Secondary School Teachers, Except Special and Career/Technical Education(252031)",
+   "Sangamon": "850",
+   "Illinois": 44360,
+   "USA": 1003250,
+   "Share_in_total_occupation": "0.8",
+   "LQ_Sangamon_IL": "1.057",
+   "LQ_Sangamon_USA": "1.11"
+ },
+ {
+   "Sector": 252052,
+   "Name": "Special Education Teachers, Kindergarten and Elementary School(252052)",
+   "Sangamon": "200",
+   "Illinois": 6370,
+   "USA": 190530,
+   "Share_in_total_occupation": "0.19",
+   "LQ_Sangamon_IL": "1.772",
+   "LQ_Sangamon_USA": "1.4"
+ },
+ {
+   "Sector": 252053,
+   "Name": "Special Education Teachers, Middle School(252053)",
+   "Sangamon": "130",
+   "Illinois": 5080,
+   "USA": 90250,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "1.433",
+   "LQ_Sangamon_USA": "1.92"
+ },
+ {
+   "Sector": 252054,
+   "Name": "Special Education Teachers, Secondary School(252054)",
+   "Sangamon": "220",
+   "Illinois": 6910,
+   "USA": 132490,
+   "Share_in_total_occupation": "0.21",
+   "LQ_Sangamon_IL": "1.766",
+   "LQ_Sangamon_USA": "2.19"
+ },
+ {
+   "Sector": 253021,
+   "Name": "SelfNAEnrichment Education Teachers(253021)",
+   "Sangamon": "NA",
+   "Illinois": 10040,
+   "USA": 229840,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 253097,
+   "Name": "Teachers and Instructors, All Other, Except Substitute Teachers(253097)",
+   "Sangamon": "180",
+   "Illinois": 16370,
+   "USA": 292950,
+   "Share_in_total_occupation": "0.17",
+   "LQ_Sangamon_IL": "0.602",
+   "LQ_Sangamon_USA": "0.8"
+ },
+ {
+   "Sector": 253098,
+   "Name": "Substitute Teachers(253098)",
+   "Sangamon": "290",
+   "Illinois": 19340,
+   "USA": 609960,
+   "Share_in_total_occupation": "0.27",
+   "LQ_Sangamon_IL": "0.853",
+   "LQ_Sangamon_USA": "0.64"
+ },
+ {
+   "Sector": 254021,
+   "Name": "Librarians(254021)",
+   "Sangamon": "90",
+   "Illinois": 6070,
+   "USA": 129350,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.795",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 254031,
+   "Name": "Library Technicians(254031)",
+   "Sangamon": "50",
+   "Illinois": 6480,
+   "USA": 93410,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.406",
+   "LQ_Sangamon_USA": "0.67"
+ },
+ {
+   "Sector": 259031,
+   "Name": "Instructional Coordinators(259031)",
+   "Sangamon": "210",
+   "Illinois": 4290,
+   "USA": 147330,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "2.783",
+   "LQ_Sangamon_USA": "1.92"
+ },
+ {
+   "Sector": 259041,
+   "Name": "Teacher Assistants(259041)",
+   "Sangamon": "780",
+   "Illinois": 58250,
+   "USA": 1263820,
+   "Share_in_total_occupation": "0.73",
+   "LQ_Sangamon_IL": "0.736",
+   "LQ_Sangamon_USA": "0.81"
+ },
+ {
+   "Sector": 270000,
+   "Name": "Arts, Design, Entertainment, Sports, and Media Occupations(270000)",
+   "Sangamon": "1060",
+   "Illinois": 69260,
+   "USA": 1902970,
+   "Share_in_total_occupation": "1",
+   "LQ_Sangamon_IL": "0.851",
+   "LQ_Sangamon_USA": "0.74"
+ },
+ {
+   "Sector": 271023,
+   "Name": "Floral Designers(271023)",
+   "Sangamon": "40",
+   "Illinois": 2190,
+   "USA": 43990,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.933",
+   "LQ_Sangamon_USA": "1.11"
+ },
+ {
+   "Sector": 271024,
+   "Name": "Graphic Designers(271024)",
+   "Sangamon": "120",
+   "Illinois": 9630,
+   "USA": 210710,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "0.706",
+   "LQ_Sangamon_USA": "0.77"
+ },
+ {
+   "Sector": 271026,
+   "Name": "Merchandise Displayers and Window Trimmers(271026)",
+   "Sangamon": "70",
+   "Illinois": 3480,
+   "USA": 114690,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.153",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 272012,
+   "Name": "Producers and Directors(272012)",
+   "Sangamon": "40",
+   "Illinois": 3290,
+   "USA": 114510,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.721",
+   "LQ_Sangamon_USA": "0.49"
+ },
+ {
+   "Sector": 272022,
+   "Name": "Coaches and Scouts(272022)",
+   "Sangamon": "180",
+   "Illinois": 9230,
+   "USA": 230930,
+   "Share_in_total_occupation": "0.17",
+   "LQ_Sangamon_IL": "1.074",
+   "LQ_Sangamon_USA": "1.02"
+ },
+ {
+   "Sector": 273011,
+   "Name": "Radio and Television Announcers(273011)",
+   "Sangamon": "70",
+   "Illinois": 1260,
+   "USA": 29210,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "3.146",
+   "LQ_Sangamon_USA": "3.24"
+ },
+ {
+   "Sector": 273031,
+   "Name": "Public Relations Specialists(273031)",
+   "Sangamon": "90",
+   "Illinois": 5810,
+   "USA": 226940,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.885",
+   "LQ_Sangamon_USA": "0.54"
+ },
+ {
+   "Sector": 273041,
+   "Name": "Editors(273041)",
+   "Sangamon": "60",
+   "Illinois": 4700,
+   "USA": 97170,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.661",
+   "LQ_Sangamon_USA": "0.76"
+ },
+ {
+   "Sector": 273091,
+   "Name": "Interpreters and Translators(273091)",
+   "Sangamon": "30",
+   "Illinois": 1390,
+   "USA": 51350,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "1.281",
+   "LQ_Sangamon_USA": "0.82"
+ },
+ {
+   "Sector": 274011,
+   "Name": "Audio and Video Equipment Technicians(274011)",
+   "Sangamon": "100",
+   "Illinois": 2590,
+   "USA": 69670,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "2.227",
+   "LQ_Sangamon_USA": "1.96"
+ },
+ {
+   "Sector": 290000,
+   "Name": "Healthcare Practitioners and Technical Occupations(290000)",
+   "Sangamon": "9550",
+   "Illinois": 341890,
+   "USA": 8318500,
+   "Share_in_total_occupation": "8.97",
+   "LQ_Sangamon_IL": "1.541",
+   "LQ_Sangamon_USA": "1.51"
+ },
+ {
+   "Sector": 291011,
+   "Name": "Chiropractors(291011)",
+   "Sangamon": "40",
+   "Illinois": 1650,
+   "USA": 32960,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.294",
+   "LQ_Sangamon_USA": "1.54"
+ },
+ {
+   "Sector": 291031,
+   "Name": "Dietitians and Nutritionists(291031)",
+   "Sangamon": "40",
+   "Illinois": 2210,
+   "USA": 61430,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.907",
+   "LQ_Sangamon_USA": "0.78"
+ },
+ {
+   "Sector": 291041,
+   "Name": "Optometrists(291041)",
+   "Sangamon": "70",
+   "Illinois": 2490,
+   "USA": 36430,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.485",
+   "LQ_Sangamon_USA": "2.42"
+ },
+ {
+   "Sector": 291051,
+   "Name": "Pharmacists(291051)",
+   "Sangamon": "420",
+   "Illinois": 12010,
+   "USA": 305510,
+   "Share_in_total_occupation": "0.39",
+   "LQ_Sangamon_IL": "1.915",
+   "LQ_Sangamon_USA": "1.8"
+ },
+ {
+   "Sector": 291062,
+   "Name": "Family and General Practitioners(291062)",
+   "Sangamon": "60",
+   "Illinois": 6530,
+   "USA": 122970,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.524",
+   "LQ_Sangamon_USA": "0.66"
+ },
+ {
+   "Sector": 291065,
+   "Name": "Pediatricians, General(291065)",
+   "Sangamon": "           NA",
+   "Illinois": 910,
+   "USA": 26960,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 291066,
+   "Name": "Psychiatrists(291066)",
+   "Sangamon": "40",
+   "Illinois": 950,
+   "USA": 24820,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "2.121",
+   "LQ_Sangamon_USA": "1.93"
+ },
+ {
+   "Sector": 291069,
+   "Name": "Physicians and Surgeons, All Other(291069)",
+   "Sangamon": "370",
+   "Illinois": 12160,
+   "USA": 338620,
+   "Share_in_total_occupation": "0.35",
+   "LQ_Sangamon_IL": "1.706",
+   "LQ_Sangamon_USA": "1.45"
+ },
+ {
+   "Sector": 291071,
+   "Name": "Physician Assistants(291071)",
+   "Sangamon": "110",
+   "Illinois": 2850,
+   "USA": 104050,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "2.169",
+   "LQ_Sangamon_USA": "1.41"
+ },
+ {
+   "Sector": 291122,
+   "Name": "Occupational Therapists(291122)",
+   "Sangamon": "60",
+   "Illinois": 4800,
+   "USA": 118070,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.722",
+   "LQ_Sangamon_USA": "0.7"
+ },
+ {
+   "Sector": 291123,
+   "Name": "Physical Therapists(291123)",
+   "Sangamon": "240",
+   "Illinois": 11030,
+   "USA": 216920,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "1.215",
+   "LQ_Sangamon_USA": "1.47"
+ },
+ {
+   "Sector": 291126,
+   "Name": "Respiratory Therapists(291126)",
+   "Sangamon": "80",
+   "Illinois": 5010,
+   "USA": 126770,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.862",
+   "LQ_Sangamon_USA": "0.81"
+ },
+ {
+   "Sector": 291127,
+   "Name": "SpeechNALanguage Pathologists(291127)",
+   "Sangamon": "140",
+   "Illinois": 6040,
+   "USA": 135980,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "1.236",
+   "LQ_Sangamon_USA": "1.31"
+ },
+ {
+   "Sector": 291129,
+   "Name": "Therapists, All Other(291129)",
+   "Sangamon": "NA",
+   "Illinois": 1150,
+   "USA": 11320,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 291131,
+   "Name": "Veterinarians(291131)",
+   "Sangamon": "70",
+   "Illinois": 2620,
+   "USA": 67650,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.565",
+   "LQ_Sangamon_USA": "1.44"
+ },
+ {
+   "Sector": 291141,
+   "Name": "Registered Nurses(291141)",
+   "Sangamon": "3380",
+   "Illinois": 121670,
+   "USA": 2857180,
+   "Share_in_total_occupation": "3.18",
+   "LQ_Sangamon_IL": "1.545",
+   "LQ_Sangamon_USA": "1.56"
+ },
+ {
+   "Sector": 291171,
+   "Name": "Nurse Practitioners(291171)",
+   "Sangamon": "160",
+   "Illinois": 4030,
+   "USA": 150230,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "2.188",
+   "LQ_Sangamon_USA": "1.4"
+ },
+ {
+   "Sector": 291199,
+   "Name": "Health Diagnosing and Treating Practitioners, All Other(291199)",
+   "Sangamon": "50",
+   "Illinois": 1990,
+   "USA": 36280,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.515",
+   "LQ_Sangamon_USA": "1.97"
+ },
+ {
+   "Sector": 292011,
+   "Name": "Medical and Clinical Laboratory Technologists(292011)",
+   "Sangamon": "280",
+   "Illinois": 6070,
+   "USA": 166730,
+   "Share_in_total_occupation": "0.26",
+   "LQ_Sangamon_IL": "2.552",
+   "LQ_Sangamon_USA": "2.22"
+ },
+ {
+   "Sector": 292012,
+   "Name": "Medical and Clinical Laboratory Technicians(292012)",
+   "Sangamon": "150",
+   "Illinois": 5440,
+   "USA": 160190,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "1.568",
+   "LQ_Sangamon_USA": "1.27"
+ },
+ {
+   "Sector": 292021,
+   "Name": "Dental Hygienists(292021)",
+   "Sangamon": "140",
+   "Illinois": 8250,
+   "USA": 204990,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "0.938",
+   "LQ_Sangamon_USA": "0.9"
+ },
+ {
+   "Sector": 292031,
+   "Name": "Cardiovascular Technologists and Technicians(292031)",
+   "Sangamon": "60",
+   "Illinois": 2150,
+   "USA": 53760,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.611",
+   "LQ_Sangamon_USA": "1.53"
+ },
+ {
+   "Sector": 292032,
+   "Name": "Diagnostic Medical Sonographers(292032)",
+   "Sangamon": "90",
+   "Illinois": 2450,
+   "USA": 65790,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "2.034",
+   "LQ_Sangamon_USA": "1.81"
+ },
+ {
+   "Sector": 292034,
+   "Name": "Radiologic Technologists(292034)",
+   "Sangamon": "240",
+   "Illinois": 6990,
+   "USA": 200650,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "1.892",
+   "LQ_Sangamon_USA": "1.57"
+ },
+ {
+   "Sector": 292035,
+   "Name": "Magnetic Resonance Imaging Technologists(292035)",
+   "Sangamon": "50",
+   "Illinois": 1410,
+   "USA": 35850,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.828",
+   "LQ_Sangamon_USA": "1.7"
+ },
+ {
+   "Sector": 292041,
+   "Name": "Emergency Medical Technicians and Paramedics(292041)",
+   "Sangamon": "230",
+   "Illinois": 12610,
+   "USA": 244960,
+   "Share_in_total_occupation": "0.22",
+   "LQ_Sangamon_IL": "1.008",
+   "LQ_Sangamon_USA": "1.23"
+ },
+ {
+   "Sector": 292051,
+   "Name": "Dietetic Technicians(292051)",
+   "Sangamon": "80",
+   "Illinois": 3730,
+   "USA": 32240,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.142",
+   "LQ_Sangamon_USA": "3.14"
+ },
+ {
+   "Sector": 292052,
+   "Name": "Pharmacy Technicians(292052)",
+   "Sangamon": "420",
+   "Illinois": 19330,
+   "USA": 398390,
+   "Share_in_total_occupation": "0.39",
+   "LQ_Sangamon_IL": "1.209",
+   "LQ_Sangamon_USA": "1.39"
+ },
+ {
+   "Sector": 292053,
+   "Name": "Psychiatric Technicians(292053)",
+   "Sangamon": "NA",
+   "Illinois": 3780,
+   "USA": 61720,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 292054,
+   "Name": "Respiratory Therapy Technicians(292054)",
+   "Sangamon": "NA",
+   "Illinois": 470,
+   "USA": 10600,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 292055,
+   "Name": "Surgical Technologists(292055)",
+   "Sangamon": "100",
+   "Illinois": 2780,
+   "USA": 105720,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "1.968",
+   "LQ_Sangamon_USA": "1.24"
+ },
+ {
+   "Sector": 292056,
+   "Name": "Veterinary Technologists and Technicians(292056)",
+   "Sangamon": "60",
+   "Illinois": 3840,
+   "USA": 99390,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.793",
+   "LQ_Sangamon_USA": "0.73"
+ },
+ {
+   "Sector": 292057,
+   "Name": "Ophthalmic Medical Technicians(292057)",
+   "Sangamon": "90",
+   "Illinois": 2000,
+   "USA": 43990,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "2.481",
+   "LQ_Sangamon_USA": "2.68"
+ },
+ {
+   "Sector": 292061,
+   "Name": "Licensed Practical and Licensed Vocational Nurses(292061)",
+   "Sangamon": "680",
+   "Illinois": 20140,
+   "USA": 702400,
+   "Share_in_total_occupation": "0.64",
+   "LQ_Sangamon_IL": "1.897",
+   "LQ_Sangamon_USA": "1.29"
+ },
+ {
+   "Sector": 292071,
+   "Name": "Medical Records and Health Information Technicians(292071)",
+   "Sangamon": "330",
+   "Illinois": 8140,
+   "USA": 200140,
+   "Share_in_total_occupation": "0.31",
+   "LQ_Sangamon_IL": "2.268",
+   "LQ_Sangamon_USA": "2.2"
+ },
+ {
+   "Sector": 292081,
+   "Name": "Opticians, Dispensing(292081)",
+   "Sangamon": "130",
+   "Illinois": 3200,
+   "USA": 75270,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "2.188",
+   "LQ_Sangamon_USA": "2.21"
+ },
+ {
+   "Sector": 292099,
+   "Name": "Health Technologists and Technicians, All Other(292099)",
+   "Sangamon": "240",
+   "Illinois": 7280,
+   "USA": 122170,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "1.824",
+   "LQ_Sangamon_USA": "2.59"
+ },
+ {
+   "Sector": 299011,
+   "Name": "Occupational Health and Safety Specialists(299011)",
+   "Sangamon": "50",
+   "Illinois": 2070,
+   "USA": 76630,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.313",
+   "LQ_Sangamon_USA": "0.84"
+ },
+ {
+   "Sector": 299099,
+   "Name": "Healthcare Practitioners and Technical Workers, All Other(299099)",
+   "Sangamon": "           NA",
+   "Illinois": 2860,
+   "USA": 36000,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 310000,
+   "Name": "Healthcare Support Occupations(310000)",
+   "Sangamon": "3570",
+   "Illinois": 166980,
+   "USA": 4043480,
+   "Share_in_total_occupation": "3.35",
+   "LQ_Sangamon_IL": "1.184",
+   "LQ_Sangamon_USA": "1.16"
+ },
+ {
+   "Sector": 311011,
+   "Name": "Home Health Aides(311011)",
+   "Sangamon": "600",
+   "Illinois": 38730,
+   "USA": 814300,
+   "Share_in_total_occupation": "0.56",
+   "LQ_Sangamon_IL": "0.867",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 311014,
+   "Name": "Nursing Assistants(311014)",
+   "Sangamon": "1400",
+   "Illinois": 60090,
+   "USA": 1443150,
+   "Share_in_total_occupation": "1.32",
+   "LQ_Sangamon_IL": "1.293",
+   "LQ_Sangamon_USA": "1.28"
+ },
+ {
+   "Sector": 311015,
+   "Name": "Orderlies(311015)",
+   "Sangamon": "70",
+   "Illinois": 3000,
+   "USA": 52940,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.304",
+   "LQ_Sangamon_USA": "1.76"
+ },
+ {
+   "Sector": 312011,
+   "Name": "Occupational Therapy Assistants(312011)",
+   "Sangamon": "40",
+   "Illinois": 2460,
+   "USA": 38170,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.824",
+   "LQ_Sangamon_USA": "1.26"
+ },
+ {
+   "Sector": 312021,
+   "Name": "Physical Therapist Assistants(312021)",
+   "Sangamon": "80",
+   "Illinois": 4860,
+   "USA": 85580,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.874",
+   "LQ_Sangamon_USA": "1.18"
+ },
+ {
+   "Sector": 312022,
+   "Name": "Physical Therapist Aides(312022)",
+   "Sangamon": "           NA",
+   "Illinois": 2960,
+   "USA": 50030,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 319011,
+   "Name": "Massage Therapists(319011)",
+   "Sangamon": "30",
+   "Illinois": 3530,
+   "USA": 95830,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "0.5",
+   "LQ_Sangamon_USA": "0.44"
+ },
+ {
+   "Sector": 319091,
+   "Name": "Dental Assistants(319091)",
+   "Sangamon": "210",
+   "Illinois": 12280,
+   "USA": 327290,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "0.933",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 319092,
+   "Name": "Medical Assistants(319092)",
+   "Sangamon": "350",
+   "Illinois": 20620,
+   "USA": 623560,
+   "Share_in_total_occupation": "0.33",
+   "LQ_Sangamon_IL": "0.937",
+   "LQ_Sangamon_USA": "0.74"
+ },
+ {
+   "Sector": 319093,
+   "Name": "Medical Equipment Preparers(319093)",
+   "Sangamon": "170",
+   "Illinois": 1910,
+   "USA": 52500,
+   "Share_in_total_occupation": "0.16",
+   "LQ_Sangamon_IL": "4.839",
+   "LQ_Sangamon_USA": "4.21"
+ },
+ {
+   "Sector": 319094,
+   "Name": "Medical Transcriptionists(319094)",
+   "Sangamon": "40",
+   "Illinois": 1610,
+   "USA": 54070,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.408",
+   "LQ_Sangamon_USA": "1"
+ },
+ {
+   "Sector": 319096,
+   "Name": "Veterinary Assistants and Laboratory Animal Caretakers(319096)",
+   "Sangamon": "50",
+   "Illinois": 2150,
+   "USA": 79990,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.328",
+   "LQ_Sangamon_USA": "0.85"
+ },
+ {
+   "Sector": 319097,
+   "Name": "Phlebotomists(319097)",
+   "Sangamon": "           NA",
+   "Illinois": 5490,
+   "USA": 120970,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 319099,
+   "Name": "Healthcare Support Workers, All Other(319099)",
+   "Sangamon": "50",
+   "Illinois": 3880,
+   "USA": 93830,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.735",
+   "LQ_Sangamon_USA": "0.72"
+ },
+ {
+   "Sector": 330000,
+   "Name": "Protective Service Occupations(330000)",
+   "Sangamon": "2610",
+   "Illinois": 153090,
+   "USA": 3386360,
+   "Share_in_total_occupation": "2.45",
+   "LQ_Sangamon_IL": "0.944",
+   "LQ_Sangamon_USA": "1.02"
+ },
+ {
+   "Sector": 331012,
+   "Name": "FirstNALine Supervisors of Police and Detectives(331012)",
+   "Sangamon": "140",
+   "Illinois": 6430,
+   "USA": 100200,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "1.229",
+   "LQ_Sangamon_USA": "1.88"
+ },
+ {
+   "Sector": 331021,
+   "Name": "FirstNALine Supervisors of Fire Fighting and Prevention Workers(331021)",
+   "Sangamon": "160",
+   "Illinois": 3530,
+   "USA": 57170,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "2.497",
+   "LQ_Sangamon_USA": "3.67"
+ },
+ {
+   "Sector": 332011,
+   "Name": "Firefighters(332011)",
+   "Sangamon": "           NA",
+   "Illinois": 17170,
+   "USA": 315910,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 333021,
+   "Name": "Detectives and Criminal Investigators(333021)",
+   "Sangamon": "160",
+   "Illinois": 2710,
+   "USA": 104980,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "3.279",
+   "LQ_Sangamon_USA": "2"
+ },
+ {
+   "Sector": 333051,
+   "Name": "Police and Sheriff's Patrol Officers(333051)",
+   "Sangamon": "580",
+   "Illinois": 32780,
+   "USA": 657690,
+   "Share_in_total_occupation": "0.55",
+   "LQ_Sangamon_IL": "0.975",
+   "LQ_Sangamon_USA": "1.16"
+ },
+ {
+   "Sector": 339032,
+   "Name": "Security Guards(339032)",
+   "Sangamon": "580",
+   "Illinois": 49370,
+   "USA": 1103120,
+   "Share_in_total_occupation": "0.55",
+   "LQ_Sangamon_IL": "0.651",
+   "LQ_Sangamon_USA": "0.69"
+ },
+ {
+   "Sector": 339092,
+   "Name": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers(339092)",
+   "Sangamon": "130",
+   "Illinois": 8330,
+   "USA": 145100,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "0.882",
+   "LQ_Sangamon_USA": "1.2"
+ },
+ {
+   "Sector": 350000,
+   "Name": "Food Preparation and Serving Related Occupations(350000)",
+   "Sangamon": "10210",
+   "Illinois": 501550,
+   "USA": 12981720,
+   "Share_in_total_occupation": "9.59",
+   "LQ_Sangamon_IL": "1.13",
+   "LQ_Sangamon_USA": "1.04"
+ },
+ {
+   "Sector": 351011,
+   "Name": "Chefs and Head Cooks(351011)",
+   "Sangamon": "80",
+   "Illinois": 4810,
+   "USA": 134190,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.882",
+   "LQ_Sangamon_USA": "0.75"
+ },
+ {
+   "Sector": 351012,
+   "Name": "FirstNALine Supervisors of Food Preparation and Serving Workers(351012)",
+   "Sangamon": "710",
+   "Illinois": 31790,
+   "USA": 908550,
+   "Share_in_total_occupation": "0.67",
+   "LQ_Sangamon_IL": "1.241",
+   "LQ_Sangamon_USA": "1.03"
+ },
+ {
+   "Sector": 352011,
+   "Name": "Cooks, Fast Food(352011)",
+   "Sangamon": "           NA",
+   "Illinois": 18980,
+   "USA": 513200,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 352012,
+   "Name": "Cooks, Institution and Cafeteria(352012)",
+   "Sangamon": "390",
+   "Illinois": 15500,
+   "USA": 409850,
+   "Share_in_total_occupation": "0.37",
+   "LQ_Sangamon_IL": "1.411",
+   "LQ_Sangamon_USA": "1.27"
+ },
+ {
+   "Sector": 352014,
+   "Name": "Cooks, Restaurant(352014)",
+   "Sangamon": "1040",
+   "Illinois": 43900,
+   "USA": 1217370,
+   "Share_in_total_occupation": "0.98",
+   "LQ_Sangamon_IL": "1.302",
+   "LQ_Sangamon_USA": "1.12"
+ },
+ {
+   "Sector": 352021,
+   "Name": "Food Preparation Workers(352021)",
+   "Sangamon": "600",
+   "Illinois": 36610,
+   "USA": 850670,
+   "Share_in_total_occupation": "0.56",
+   "LQ_Sangamon_IL": "0.912",
+   "LQ_Sangamon_USA": "0.93"
+ },
+ {
+   "Sector": 353011,
+   "Name": "Bartenders(353011)",
+   "Sangamon": "600",
+   "Illinois": 26410,
+   "USA": 603320,
+   "Share_in_total_occupation": "0.56",
+   "LQ_Sangamon_IL": "1.269",
+   "LQ_Sangamon_USA": "1.32"
+ },
+ {
+   "Sector": 353021,
+   "Name": "Combined Food Preparation and Serving Workers, Including Fast Food(353021)",
+   "Sangamon": "3610",
+   "Illinois": 140420,
+   "USA": 3426090,
+   "Share_in_total_occupation": "3.39",
+   "LQ_Sangamon_IL": "1.433",
+   "LQ_Sangamon_USA": "1.39"
+ },
+ {
+   "Sector": 353022,
+   "Name": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop(353022)",
+   "Sangamon": "           NA",
+   "Illinois": 20420,
+   "USA": 499550,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 353031,
+   "Name": "Waiters and Waitresses(353031)",
+   "Sangamon": "1740",
+   "Illinois": 91370,
+   "USA": 2564610,
+   "Share_in_total_occupation": "1.64",
+   "LQ_Sangamon_IL": "1.059",
+   "LQ_Sangamon_USA": "0.9"
+ },
+ {
+   "Sector": 353041,
+   "Name": "Food Servers, Nonrestaurant(353041)",
+   "Sangamon": "170",
+   "Illinois": 11670,
+   "USA": 261520,
+   "Share_in_total_occupation": "0.16",
+   "LQ_Sangamon_IL": "0.783",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 359011,
+   "Name": "Dining Room and Cafeteria Attendants and Bartender Helpers(359011)",
+   "Sangamon": "280",
+   "Illinois": 19410,
+   "USA": 423080,
+   "Share_in_total_occupation": "0.26",
+   "LQ_Sangamon_IL": "0.798",
+   "LQ_Sangamon_USA": "0.87"
+ },
+ {
+   "Sector": 359021,
+   "Name": "Dishwashers(359021)",
+   "Sangamon": "390",
+   "Illinois": 16900,
+   "USA": 506450,
+   "Share_in_total_occupation": "0.37",
+   "LQ_Sangamon_IL": "1.291",
+   "LQ_Sangamon_USA": "1.02"
+ },
+ {
+   "Sector": 359031,
+   "Name": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop(359031)",
+   "Sangamon": "160",
+   "Illinois": 14510,
+   "USA": 404360,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "0.635",
+   "LQ_Sangamon_USA": "0.54"
+ },
+ {
+   "Sector": 370000,
+   "Name": "Building and Grounds Cleaning and Maintenance Occupations(370000)",
+   "Sangamon": "2980",
+   "Illinois": 169140,
+   "USA": 4426090,
+   "Share_in_total_occupation": "2.8",
+   "LQ_Sangamon_IL": "0.978",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 371011,
+   "Name": "FirstNALine Supervisors of Housekeeping and Janitorial Workers(371011)",
+   "Sangamon": "100",
+   "Illinois": 6240,
+   "USA": 161140,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.935",
+   "LQ_Sangamon_USA": "0.86"
+ },
+ {
+   "Sector": 371012,
+   "Name": "FirstNALine Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers(371012)",
+   "Sangamon": "50",
+   "Illinois": 4440,
+   "USA": 103070,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.573",
+   "LQ_Sangamon_USA": "0.59"
+ },
+ {
+   "Sector": 372011,
+   "Name": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners(372011)",
+   "Sangamon": "1380",
+   "Illinois": 86230,
+   "USA": 2161740,
+   "Share_in_total_occupation": "1.3",
+   "LQ_Sangamon_IL": "0.884",
+   "LQ_Sangamon_USA": "0.84"
+ },
+ {
+   "Sector": 372012,
+   "Name": "Maids and Housekeeping Cleaners(372012)",
+   "Sangamon": "770",
+   "Illinois": 33390,
+   "USA": 924640,
+   "Share_in_total_occupation": "0.72",
+   "LQ_Sangamon_IL": "1.279",
+   "LQ_Sangamon_USA": "1.1"
+ },
+ {
+   "Sector": 372021,
+   "Name": "Pest Control Workers(372021)",
+   "Sangamon": "50",
+   "Illinois": 1420,
+   "USA": 72830,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "2.152",
+   "LQ_Sangamon_USA": "0.99"
+ },
+ {
+   "Sector": 373011,
+   "Name": "Landscaping and Groundskeeping Workers(373011)",
+   "Sangamon": "610",
+   "Illinois": 34450,
+   "USA": 906570,
+   "Share_in_total_occupation": "0.57",
+   "LQ_Sangamon_IL": "0.989",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 390000,
+   "Name": "Personal Care and Service Occupations(390000)",
+   "Sangamon": "2450",
+   "Illinois": 163280,
+   "USA": 4514960,
+   "Share_in_total_occupation": "2.3",
+   "LQ_Sangamon_IL": "0.837",
+   "LQ_Sangamon_USA": "0.72"
+ },
+ {
+   "Sector": 391021,
+   "Name": "FirstNALine Supervisors of Personal Service Workers(391021)",
+   "Sangamon": "60",
+   "Illinois": 4760,
+   "USA": 190420,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.729",
+   "LQ_Sangamon_USA": "0.43"
+ },
+ {
+   "Sector": 392021,
+   "Name": "Nonfarm Animal Caretakers(392021)",
+   "Sangamon": "80",
+   "Illinois": 8580,
+   "USA": 187360,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.541",
+   "LQ_Sangamon_USA": "0.59"
+ },
+ {
+   "Sector": 393091,
+   "Name": "Amusement and Recreation Attendants(393091)",
+   "Sangamon": "230",
+   "Illinois": 8940,
+   "USA": 286740,
+   "Share_in_total_occupation": "0.22",
+   "LQ_Sangamon_IL": "1.419",
+   "LQ_Sangamon_USA": "1.05"
+ },
+ {
+   "Sector": 394031,
+   "Name": "Morticians, Undertakers, and Funeral Directors(394031)",
+   "Sangamon": "40",
+   "Illinois": 1110,
+   "USA": 25850,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.794",
+   "LQ_Sangamon_USA": "1.83"
+ },
+ {
+   "Sector": 395012,
+   "Name": "Hairdressers, Hairstylists, and Cosmetologists(395012)",
+   "Sangamon": "470",
+   "Illinois": 16420,
+   "USA": 352380,
+   "Share_in_total_occupation": "0.44",
+   "LQ_Sangamon_IL": "1.595",
+   "LQ_Sangamon_USA": "1.77"
+ },
+ {
+   "Sector": 395092,
+   "Name": "Manicurists and Pedicurists(395092)",
+   "Sangamon": "40",
+   "Illinois": 3750,
+   "USA": 90630,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.561",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 395094,
+   "Name": "Skincare Specialists(395094)",
+   "Sangamon": "70",
+   "Illinois": 2180,
+   "USA": 43980,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.695",
+   "LQ_Sangamon_USA": "2"
+ },
+ {
+   "Sector": 399011,
+   "Name": "Childcare Workers(399011)",
+   "Sangamon": "340",
+   "Illinois": 17200,
+   "USA": 569370,
+   "Share_in_total_occupation": "0.32",
+   "LQ_Sangamon_IL": "1.111",
+   "LQ_Sangamon_USA": "0.8"
+ },
+ {
+   "Sector": 399021,
+   "Name": "Personal Care Aides(399021)",
+   "Sangamon": "350",
+   "Illinois": 43150,
+   "USA": 1492250,
+   "Share_in_total_occupation": "0.33",
+   "LQ_Sangamon_IL": "0.449",
+   "LQ_Sangamon_USA": "0.31"
+ },
+ {
+   "Sector": 399031,
+   "Name": "Fitness Trainers and Aerobics Instructors(399031)",
+   "Sangamon": "310",
+   "Illinois": 13350,
+   "USA": 257410,
+   "Share_in_total_occupation": "0.29",
+   "LQ_Sangamon_IL": "1.293",
+   "LQ_Sangamon_USA": "1.59"
+ },
+ {
+   "Sector": 399032,
+   "Name": "Recreation Workers(399032)",
+   "Sangamon": "130",
+   "Illinois": 21230,
+   "USA": 336880,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "0.333",
+   "LQ_Sangamon_USA": "0.5"
+ },
+ {
+   "Sector": 399041,
+   "Name": "Residential Advisors(399041)",
+   "Sangamon": "80",
+   "Illinois": 4020,
+   "USA": 110330,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.092",
+   "LQ_Sangamon_USA": "0.95"
+ },
+ {
+   "Sector": 410000,
+   "Name": "Sales and Related Occupations(410000)",
+   "Sangamon": "9690",
+   "Illinois": 579000,
+   "USA": 14536530,
+   "Share_in_total_occupation": "9.11",
+   "LQ_Sangamon_IL": "0.926",
+   "LQ_Sangamon_USA": "0.88"
+ },
+ {
+   "Sector": 411011,
+   "Name": "FirstNALine Supervisors of Retail Sales Workers(411011)",
+   "Sangamon": "930",
+   "Illinois": 43500,
+   "USA": 1194220,
+   "Share_in_total_occupation": "0.87",
+   "LQ_Sangamon_IL": "1.184",
+   "LQ_Sangamon_USA": "1.03"
+ },
+ {
+   "Sector": 411012,
+   "Name": "FirstNALine Supervisors of NonNARetail Sales Workers(411012)",
+   "Sangamon": "150",
+   "Illinois": 8140,
+   "USA": 252670,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "1",
+   "LQ_Sangamon_USA": "0.77"
+ },
+ {
+   "Sector": 412011,
+   "Name": "Cashiers(412011)",
+   "Sangamon": "2360",
+   "Illinois": 127700,
+   "USA": 3541010,
+   "Share_in_total_occupation": "2.22",
+   "LQ_Sangamon_IL": "1.023",
+   "LQ_Sangamon_USA": "0.88"
+ },
+ {
+   "Sector": 412021,
+   "Name": "Counter and Rental Clerks(412021)",
+   "Sangamon": "380",
+   "Illinois": 10660,
+   "USA": 450330,
+   "Share_in_total_occupation": "0.36",
+   "LQ_Sangamon_IL": "2",
+   "LQ_Sangamon_USA": "1.12"
+ },
+ {
+   "Sector": 412022,
+   "Name": "Parts Salespersons(412022)",
+   "Sangamon": "160",
+   "Illinois": 8990,
+   "USA": 248740,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "0.988",
+   "LQ_Sangamon_USA": "0.85"
+ },
+ {
+   "Sector": 412031,
+   "Name": "Retail Salespersons(412031)",
+   "Sangamon": "3520",
+   "Illinois": 186820,
+   "USA": 4528550,
+   "Share_in_total_occupation": "3.31",
+   "LQ_Sangamon_IL": "1.041",
+   "LQ_Sangamon_USA": "1.02"
+ },
+ {
+   "Sector": 413011,
+   "Name": "Advertising Sales Agents(413011)",
+   "Sangamon": "90",
+   "Illinois": 8850,
+   "USA": 141100,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.544",
+   "LQ_Sangamon_USA": "0.81"
+ },
+ {
+   "Sector": 413021,
+   "Name": "Insurance Sales Agents(413021)",
+   "Sangamon": "290",
+   "Illinois": 14730,
+   "USA": 385700,
+   "Share_in_total_occupation": "0.27",
+   "LQ_Sangamon_IL": "1.077",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 413031,
+   "Name": "Securities, Commodities, and Financial Services Sales Agents(413031)",
+   "Sangamon": "           NA",
+   "Illinois": 18760,
+   "USA": 353780,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 413099,
+   "Name": "Sales Representatives, Services, All Other(413099)",
+   "Sangamon": "380",
+   "Illinois": 39110,
+   "USA": 953870,
+   "Share_in_total_occupation": "0.36",
+   "LQ_Sangamon_IL": "0.541",
+   "LQ_Sangamon_USA": "0.53"
+ },
+ {
+   "Sector": 414011,
+   "Name": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products(414011)",
+   "Sangamon": "120",
+   "Illinois": 12630,
+   "USA": 328370,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "0.516",
+   "LQ_Sangamon_USA": "0.47"
+ },
+ {
+   "Sector": 414012,
+   "Name": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products(414012)",
+   "Sangamon": "650",
+   "Illinois": 69240,
+   "USA": 1404050,
+   "Share_in_total_occupation": "0.61",
+   "LQ_Sangamon_IL": "0.521",
+   "LQ_Sangamon_USA": "0.61"
+ },
+ {
+   "Sector": 419022,
+   "Name": "Real Estate Sales Agents(419022)",
+   "Sangamon": "50",
+   "Illinois": 3890,
+   "USA": 151840,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.754",
+   "LQ_Sangamon_USA": "0.46"
+ },
+ {
+   "Sector": 419041,
+   "Name": "Telemarketers(419041)",
+   "Sangamon": "100",
+   "Illinois": 7420,
+   "USA": 215290,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.72",
+   "LQ_Sangamon_USA": "0.59"
+ },
+ {
+   "Sector": 419099,
+   "Name": "Sales and Related Workers, All Other(419099)",
+   "Sangamon": "           NA",
+   "Illinois": 4090,
+   "USA": 81080,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 430000,
+   "Name": "Office and Administrative Support Occupations(430000)",
+   "Sangamon": "21100",
+   "Illinois": 915900,
+   "USA": 22026080,
+   "Share_in_total_occupation": "19.83",
+   "LQ_Sangamon_IL": "1.273",
+   "LQ_Sangamon_USA": "1.26"
+ },
+ {
+   "Sector": 431011,
+   "Name": "FirstNALine Supervisors of Office and Administrative Support Workers(431011)",
+   "Sangamon": "770",
+   "Illinois": 44280,
+   "USA": 1443150,
+   "Share_in_total_occupation": "0.72",
+   "LQ_Sangamon_IL": "0.959",
+   "LQ_Sangamon_USA": "0.7"
+ },
+ {
+   "Sector": 432011,
+   "Name": "Switchboard Operators, Including Answering Service(432011)",
+   "Sangamon": "180",
+   "Illinois": 3230,
+   "USA": 90910,
+   "Share_in_total_occupation": "0.17",
+   "LQ_Sangamon_IL": "3.107",
+   "LQ_Sangamon_USA": "2.61"
+ },
+ {
+   "Sector": 433011,
+   "Name": "Bill and Account Collectors(433011)",
+   "Sangamon": "100",
+   "Illinois": 11920,
+   "USA": 298960,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.453",
+   "LQ_Sangamon_USA": "0.43"
+ },
+ {
+   "Sector": 433021,
+   "Name": "Billing and Posting Clerks(433021)",
+   "Sangamon": "250",
+   "Illinois": 15190,
+   "USA": 485220,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "0.919",
+   "LQ_Sangamon_USA": "0.68"
+ },
+ {
+   "Sector": 433031,
+   "Name": "Bookkeeping, Accounting, and Auditing Clerks(433031)",
+   "Sangamon": "1060",
+   "Illinois": 55350,
+   "USA": 1566960,
+   "Share_in_total_occupation": "1",
+   "LQ_Sangamon_IL": "1.071",
+   "LQ_Sangamon_USA": "0.9"
+ },
+ {
+   "Sector": 433051,
+   "Name": "Payroll and Timekeeping Clerks(433051)",
+   "Sangamon": "90",
+   "Illinois": 5200,
+   "USA": 159650,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.948",
+   "LQ_Sangamon_USA": "0.73"
+ },
+ {
+   "Sector": 433061,
+   "Name": "Procurement Clerks(433061)",
+   "Sangamon": "40",
+   "Illinois": 2490,
+   "USA": 72120,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.915",
+   "LQ_Sangamon_USA": "0.75"
+ },
+ {
+   "Sector": 433071,
+   "Name": "Tellers(433071)",
+   "Sangamon": "530",
+   "Illinois": 20870,
+   "USA": 496760,
+   "Share_in_total_occupation": "0.5",
+   "LQ_Sangamon_IL": "1.4",
+   "LQ_Sangamon_USA": "1.4"
+ },
+ {
+   "Sector": 434031,
+   "Name": "Court, Municipal, and License Clerks(434031)",
+   "Sangamon": "60",
+   "Illinois": 5340,
+   "USA": 128620,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.667",
+   "LQ_Sangamon_USA": "0.66"
+ },
+ {
+   "Sector": 434041,
+   "Name": "Credit Authorizers, Checkers, and Clerks(434041)",
+   "Sangamon": "50",
+   "Illinois": 740,
+   "USA": 37680,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "3.574",
+   "LQ_Sangamon_USA": "1.68"
+ },
+ {
+   "Sector": 434051,
+   "Name": "Customer Service Representatives(434051)",
+   "Sangamon": "2200",
+   "Illinois": 121130,
+   "USA": 2707040,
+   "Share_in_total_occupation": "2.07",
+   "LQ_Sangamon_IL": "1.009",
+   "LQ_Sangamon_USA": "1.07"
+ },
+ {
+   "Sector": 434061,
+   "Name": "Eligibility Interviewers, Government Programs(434061)",
+   "Sangamon": "40",
+   "Illinois": 2080,
+   "USA": 135940,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "1.139",
+   "LQ_Sangamon_USA": "0.41"
+ },
+ {
+   "Sector": 434071,
+   "Name": "File Clerks(434071)",
+   "Sangamon": "90",
+   "Illinois": 4080,
+   "USA": 130950,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.257",
+   "LQ_Sangamon_USA": "0.93"
+ },
+ {
+   "Sector": 434081,
+   "Name": "Hotel, Motel, and Resort Desk Clerks(434081)",
+   "Sangamon": "160",
+   "Illinois": 6650,
+   "USA": 248440,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "1.313",
+   "LQ_Sangamon_USA": "0.84"
+ },
+ {
+   "Sector": 434111,
+   "Name": "Interviewers, Except Eligibility and Loan(434111)",
+   "Sangamon": "           NA",
+   "Illinois": 4250,
+   "USA": 186030,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 434121,
+   "Name": "Library Assistants, Clerical(434121)",
+   "Sangamon": "60",
+   "Illinois": 6890,
+   "USA": 98560,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.482",
+   "LQ_Sangamon_USA": "0.8"
+ },
+ {
+   "Sector": 434151,
+   "Name": "Order Clerks(434151)",
+   "Sangamon": "           NA",
+   "Illinois": 7370,
+   "USA": 176850,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 434161,
+   "Name": "Human Resources Assistants, Except Payroll and Timekeeping(434161)",
+   "Sangamon": "160",
+   "Illinois": 3660,
+   "USA": 137150,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "2.492",
+   "LQ_Sangamon_USA": "1.57"
+ },
+ {
+   "Sector": 434171,
+   "Name": "Receptionists and Information Clerks(434171)",
+   "Sangamon": "1080",
+   "Illinois": 40010,
+   "USA": 997770,
+   "Share_in_total_occupation": "1.01",
+   "LQ_Sangamon_IL": "1.505",
+   "LQ_Sangamon_USA": "1.43"
+ },
+ {
+   "Sector": 434199,
+   "Name": "Information and Record Clerks, All Other(434199)",
+   "Sangamon": "           NA",
+   "Illinois": 4540,
+   "USA": 166850,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 435021,
+   "Name": "Couriers and Messengers(435021)",
+   "Sangamon": "160",
+   "Illinois": 2490,
+   "USA": 74120,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "3.588",
+   "LQ_Sangamon_USA": "2.87"
+ },
+ {
+   "Sector": 435031,
+   "Name": "Police, Fire, and Ambulance Dispatchers(435031)",
+   "Sangamon": "80",
+   "Illinois": 3770,
+   "USA": 95170,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.223",
+   "LQ_Sangamon_USA": "1.15"
+ },
+ {
+   "Sector": 435032,
+   "Name": "Dispatchers, Except Police, Fire, and Ambulance(435032)",
+   "Sangamon": "80",
+   "Illinois": 7090,
+   "USA": 197910,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.624",
+   "LQ_Sangamon_USA": "0.53"
+ },
+ {
+   "Sector": 435051,
+   "Name": "Postal Service Clerks(435051)",
+   "Sangamon": "70",
+   "Illinois": 3270,
+   "USA": 82030,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.147",
+   "LQ_Sangamon_USA": "1.09"
+ },
+ {
+   "Sector": 435052,
+   "Name": "Postal Service Mail Carriers(435052)",
+   "Sangamon": "300",
+   "Illinois": 15300,
+   "USA": 328950,
+   "Share_in_total_occupation": "0.28",
+   "LQ_Sangamon_IL": "1.081",
+   "LQ_Sangamon_USA": "1.2"
+ },
+ {
+   "Sector": 435053,
+   "Name": "Postal Service Mail Sorters, Processors, and Processing Machine Operators(435053)",
+   "Sangamon": "150",
+   "Illinois": 6010,
+   "USA": 110770,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "1.357",
+   "LQ_Sangamon_USA": "1.75"
+ },
+ {
+   "Sector": 435061,
+   "Name": "Production, Planning, and Expediting Clerks(435061)",
+   "Sangamon": "140",
+   "Illinois": 13300,
+   "USA": 321780,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "0.582",
+   "LQ_Sangamon_USA": "0.57"
+ },
+ {
+   "Sector": 435071,
+   "Name": "Shipping, Receiving, and Traffic Clerks(435071)",
+   "Sangamon": "350",
+   "Illinois": 31500,
+   "USA": 676990,
+   "Share_in_total_occupation": "0.33",
+   "LQ_Sangamon_IL": "0.613",
+   "LQ_Sangamon_USA": "0.68"
+ },
+ {
+   "Sector": 435081,
+   "Name": "Stock Clerks and Order Fillers(435081)",
+   "Sangamon": "1690",
+   "Illinois": 105570,
+   "USA": 2016340,
+   "Share_in_total_occupation": "1.59",
+   "LQ_Sangamon_IL": "0.88",
+   "LQ_Sangamon_USA": "1.1"
+ },
+ {
+   "Sector": 436011,
+   "Name": "Executive Secretaries and Executive Administrative Assistants(436011)",
+   "Sangamon": "1260",
+   "Illinois": 36590,
+   "USA": 631610,
+   "Share_in_total_occupation": "1.18",
+   "LQ_Sangamon_IL": "1.899",
+   "LQ_Sangamon_USA": "2.62"
+ },
+ {
+   "Sector": 436012,
+   "Name": "Legal Secretaries(436012)",
+   "Sangamon": "100",
+   "Illinois": 9270,
+   "USA": 191200,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "0.591",
+   "LQ_Sangamon_USA": "0.68"
+ },
+ {
+   "Sector": 436013,
+   "Name": "Medical Secretaries(436013)",
+   "Sangamon": "440",
+   "Illinois": 14190,
+   "USA": 556820,
+   "Share_in_total_occupation": "0.41",
+   "LQ_Sangamon_IL": "1.705",
+   "LQ_Sangamon_USA": "1.04"
+ },
+ {
+   "Sector": 436014,
+   "Name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive(436014)",
+   "Sangamon": "1710",
+   "Illinois": 84550,
+   "USA": 2295510,
+   "Share_in_total_occupation": "1.61",
+   "LQ_Sangamon_IL": "1.114",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 439011,
+   "Name": "Computer Operators(439011)",
+   "Sangamon": "120",
+   "Illinois": 1920,
+   "USA": 46810,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "3.367",
+   "LQ_Sangamon_USA": "3.3"
+ },
+ {
+   "Sector": 439021,
+   "Name": "Data Entry Keyers(439021)",
+   "Sangamon": "210",
+   "Illinois": 9140,
+   "USA": 194810,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "1.295",
+   "LQ_Sangamon_USA": "1.45"
+ },
+ {
+   "Sector": 439041,
+   "Name": "Insurance Claims and Policy Processing Clerks(439041)",
+   "Sangamon": "500",
+   "Illinois": 9850,
+   "USA": 274350,
+   "Share_in_total_occupation": "0.47",
+   "LQ_Sangamon_IL": "2.824",
+   "LQ_Sangamon_USA": "2.4"
+ },
+ {
+   "Sector": 439051,
+   "Name": "Mail Clerks and Mail Machine Operators, Except Postal Service(439051)",
+   "Sangamon": "240",
+   "Illinois": 5480,
+   "USA": 91530,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "2.458",
+   "LQ_Sangamon_USA": "3.49"
+ },
+ {
+   "Sector": 439071,
+   "Name": "Office Machine Operators, Except Computer(439071)",
+   "Sangamon": "60",
+   "Illinois": 1230,
+   "USA": 58160,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "2.74",
+   "LQ_Sangamon_USA": "1.37"
+ },
+ {
+   "Sector": 439199,
+   "Name": "Office and Administrative Support Workers, All Other(439199)",
+   "Sangamon": "440",
+   "Illinois": 14600,
+   "USA": 216650,
+   "Share_in_total_occupation": "0.41",
+   "LQ_Sangamon_IL": "1.688",
+   "LQ_Sangamon_USA": "2.7"
+ },
+ {
+   "Sector": 450000,
+   "Name": "Farming, Fishing, and Forestry Occupations(450000)",
+   "Sangamon": "70",
+   "Illinois": 6690,
+   "USA": 463640,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.588",
+   "LQ_Sangamon_USA": "0.2"
+ },
+ {
+   "Sector": 470000,
+   "Name": "Construction and Extraction Occupations(470000)",
+   "Sangamon": "3770",
+   "Illinois": 175450,
+   "USA": 5585420,
+   "Share_in_total_occupation": "3.54",
+   "LQ_Sangamon_IL": "1.187",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 471011,
+   "Name": "FirstNALine Supervisors of Construction Trades and Extraction Workers(471011)",
+   "Sangamon": "270",
+   "Illinois": 11160,
+   "USA": 538220,
+   "Share_in_total_occupation": "0.25",
+   "LQ_Sangamon_IL": "1.327",
+   "LQ_Sangamon_USA": "0.65"
+ },
+ {
+   "Sector": 472021,
+   "Name": "Brickmasons and Blockmasons(472021)",
+   "Sangamon": "60",
+   "Illinois": 2860,
+   "USA": 64370,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.104",
+   "LQ_Sangamon_USA": "1.17"
+ },
+ {
+   "Sector": 472031,
+   "Name": "Carpenters(472031)",
+   "Sangamon": "660",
+   "Illinois": 24720,
+   "USA": 676980,
+   "Share_in_total_occupation": "0.62",
+   "LQ_Sangamon_IL": "1.483",
+   "LQ_Sangamon_USA": "1.29"
+ },
+ {
+   "Sector": 472051,
+   "Name": "Cement Masons and Concrete Finishers(472051)",
+   "Sangamon": "100",
+   "Illinois": 4570,
+   "USA": 173920,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "1.226",
+   "LQ_Sangamon_USA": "0.76"
+ },
+ {
+   "Sector": 472061,
+   "Name": "Construction Laborers(472061)",
+   "Sangamon": "600",
+   "Illinois": 31260,
+   "USA": 912100,
+   "Share_in_total_occupation": "0.56",
+   "LQ_Sangamon_IL": "1.061",
+   "LQ_Sangamon_USA": "0.87"
+ },
+ {
+   "Sector": 472073,
+   "Name": "Operating Engineers and Other Construction Equipment Operators(472073)",
+   "Sangamon": "420",
+   "Illinois": 11550,
+   "USA": 356750,
+   "Share_in_total_occupation": "0.39",
+   "LQ_Sangamon_IL": "2",
+   "LQ_Sangamon_USA": "1.54"
+ },
+ {
+   "Sector": 472081,
+   "Name": "Drywall and Ceiling Tile Installers(472081)",
+   "Sangamon": "50",
+   "Illinois": 1760,
+   "USA": 93180,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "1.489",
+   "LQ_Sangamon_USA": "0.67"
+ },
+ {
+   "Sector": 472111,
+   "Name": "Electricians(472111)",
+   "Sangamon": "250",
+   "Illinois": 20330,
+   "USA": 607120,
+   "Share_in_total_occupation": "0.23",
+   "LQ_Sangamon_IL": "0.675",
+   "LQ_Sangamon_USA": "0.54"
+ },
+ {
+   "Sector": 472141,
+   "Name": "Painters, Construction and Maintenance(472141)",
+   "Sangamon": "80",
+   "Illinois": 8380,
+   "USA": 217280,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.533",
+   "LQ_Sangamon_USA": "0.49"
+ },
+ {
+   "Sector": 472152,
+   "Name": "Plumbers, Pipefitters, and Steamfitters(472152)",
+   "Sangamon": "450",
+   "Illinois": 15860,
+   "USA": 411870,
+   "Share_in_total_occupation": "0.42",
+   "LQ_Sangamon_IL": "1.554",
+   "LQ_Sangamon_USA": "1.43"
+ },
+ {
+   "Sector": 472181,
+   "Name": "Roofers(472181)",
+   "Sangamon": "120",
+   "Illinois": 5050,
+   "USA": 116410,
+   "Share_in_total_occupation": "0.11",
+   "LQ_Sangamon_IL": "1.369",
+   "LQ_Sangamon_USA": "1.41"
+ },
+ {
+   "Sector": 472211,
+   "Name": "Sheet Metal Workers(472211)",
+   "Sangamon": "60",
+   "Illinois": 4120,
+   "USA": 134450,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.822",
+   "LQ_Sangamon_USA": "0.6"
+ },
+ {
+   "Sector": 472221,
+   "Name": "Structural Iron and Steel Workers(472221)",
+   "Sangamon": "30",
+   "Illinois": 2790,
+   "USA": 69440,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "0.695",
+   "LQ_Sangamon_USA": "0.66"
+ },
+ {
+   "Sector": 474051,
+   "Name": "Highway Maintenance Workers(474051)",
+   "Sangamon": "210",
+   "Illinois": 6510,
+   "USA": 143320,
+   "Share_in_total_occupation": "0.2",
+   "LQ_Sangamon_IL": "1.815",
+   "LQ_Sangamon_USA": "1.96"
+ },
+ {
+   "Sector": 490000,
+   "Name": "Installation, Maintenance, and Repair Occupations(490000)",
+   "Sangamon": "3280",
+   "Illinois": 207630,
+   "USA": 5456640,
+   "Share_in_total_occupation": "3.08",
+   "LQ_Sangamon_IL": "0.878",
+   "LQ_Sangamon_USA": "0.79"
+ },
+ {
+   "Sector": 491011,
+   "Name": "FirstNALine Supervisors of Mechanics, Installers, and Repairers(491011)",
+   "Sangamon": "280",
+   "Illinois": 14550,
+   "USA": 453330,
+   "Share_in_total_occupation": "0.26",
+   "LQ_Sangamon_IL": "1.092",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 492011,
+   "Name": "Computer, Automated Teller, and Office Machine Repairers(492011)",
+   "Sangamon": "70",
+   "Illinois": 3650,
+   "USA": 102170,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.047",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 492022,
+   "Name": "Telecommunications Equipment Installers and Repairers, Except Line Installers(492022)",
+   "Sangamon": "150",
+   "Illinois": 7890,
+   "USA": 228430,
+   "Share_in_total_occupation": "0.14",
+   "LQ_Sangamon_IL": "1.085",
+   "LQ_Sangamon_USA": "0.89"
+ },
+ {
+   "Sector": 493011,
+   "Name": "Aircraft Mechanics and Service Technicians(493011)",
+   "Sangamon": "60",
+   "Illinois": 4210,
+   "USA": 128570,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.795",
+   "LQ_Sangamon_USA": "0.62"
+ },
+ {
+   "Sector": 493021,
+   "Name": "Automotive Body and Related Repairers(493021)",
+   "Sangamon": "70",
+   "Illinois": 6770,
+   "USA": 143940,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.607",
+   "LQ_Sangamon_USA": "0.68"
+ },
+ {
+   "Sector": 493023,
+   "Name": "Automotive Service Technicians and Mechanics(493023)",
+   "Sangamon": "620",
+   "Illinois": 27980,
+   "USA": 647380,
+   "Share_in_total_occupation": "0.58",
+   "LQ_Sangamon_IL": "1.233",
+   "LQ_Sangamon_USA": "1.27"
+ },
+ {
+   "Sector": 493031,
+   "Name": "Bus and Truck Mechanics and Diesel Engine Specialists(493031)",
+   "Sangamon": "110",
+   "Illinois": 9010,
+   "USA": 254280,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "0.655",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 493042,
+   "Name": "Mobile Heavy Equipment Mechanics, Except Engines(493042)",
+   "Sangamon": "60",
+   "Illinois": 2640,
+   "USA": 123570,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "1.314",
+   "LQ_Sangamon_USA": "0.67"
+ },
+ {
+   "Sector": 493093,
+   "Name": "Tire Repairers and Changers(493093)",
+   "Sangamon": "130",
+   "Illinois": 3120,
+   "USA": 109350,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "2.235",
+   "LQ_Sangamon_USA": "1.52"
+ },
+ {
+   "Sector": 499021,
+   "Name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers(499021)",
+   "Sangamon": "230",
+   "Illinois": 6640,
+   "USA": 294730,
+   "Share_in_total_occupation": "0.22",
+   "LQ_Sangamon_IL": "1.87",
+   "LQ_Sangamon_USA": "1.01"
+ },
+ {
+   "Sector": 499041,
+   "Name": "Industrial Machinery Mechanics(499041)",
+   "Sangamon": "50",
+   "Illinois": 12160,
+   "USA": 334490,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.244",
+   "LQ_Sangamon_USA": "0.21"
+ },
+ {
+   "Sector": 499043,
+   "Name": "Maintenance Workers, Machinery(499043)",
+   "Sangamon": "50",
+   "Illinois": 4500,
+   "USA": 89630,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.58",
+   "LQ_Sangamon_USA": "0.69"
+ },
+ {
+   "Sector": 499051,
+   "Name": "Electrical PowerNALine Installers and Repairers(499051)",
+   "Sangamon": "70",
+   "Illinois": 2840,
+   "USA": 117670,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.281",
+   "LQ_Sangamon_USA": "0.73"
+ },
+ {
+   "Sector": 499071,
+   "Name": "Maintenance and Repair Workers, General(499071)",
+   "Sangamon": "810",
+   "Illinois": 58940,
+   "USA": 1332480,
+   "Share_in_total_occupation": "0.76",
+   "LQ_Sangamon_IL": "0.762",
+   "LQ_Sangamon_USA": "0.8"
+ },
+ {
+   "Sector": 499091,
+   "Name": "Coin, Vending, and Amusement Machine Servicers and Repairers(499091)",
+   "Sangamon": "140",
+   "Illinois": 1330,
+   "USA": 33600,
+   "Share_in_total_occupation": "0.13",
+   "LQ_Sangamon_IL": "5.755",
+   "LQ_Sangamon_USA": "5.41"
+ },
+ {
+   "Sector": 499094,
+   "Name": "Locksmiths and Safe Repairers(499094)",
+   "Sangamon": "30",
+   "Illinois": 600,
+   "USA": 18640,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "3.169",
+   "LQ_Sangamon_USA": "2.44"
+ },
+ {
+   "Sector": 499098,
+   "Name": "HelpersNANAInstallation, Maintenance, and Repair Workers(499098)",
+   "Sangamon": "30",
+   "Illinois": 3050,
+   "USA": 118720,
+   "Share_in_total_occupation": "0.03",
+   "LQ_Sangamon_IL": "0.607",
+   "LQ_Sangamon_USA": "0.37"
+ },
+ {
+   "Sector": 499099,
+   "Name": "Installation, Maintenance, and Repair Workers, All Other(499099)",
+   "Sangamon": "70",
+   "Illinois": 10720,
+   "USA": 146460,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "0.368",
+   "LQ_Sangamon_USA": "0.64"
+ },
+ {
+   "Sector": 510000,
+   "Name": "Production Occupations(510000)",
+   "Sangamon": "2890",
+   "Illinois": 434220,
+   "USA": 9105650,
+   "Share_in_total_occupation": "2.72",
+   "LQ_Sangamon_IL": "0.372",
+   "LQ_Sangamon_USA": "0.42"
+ },
+ {
+   "Sector": 511011,
+   "Name": "FirstNALine Supervisors of Production and Operating Workers(511011)",
+   "Sangamon": "           NA",
+   "Illinois": 24620,
+   "USA": 610480,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 512092,
+   "Name": "Team Assemblers(512092)",
+   "Sangamon": "180",
+   "Illinois": 43730,
+   "USA": 1112780,
+   "Share_in_total_occupation": "0.17",
+   "LQ_Sangamon_IL": "0.226",
+   "LQ_Sangamon_USA": "0.21"
+ },
+ {
+   "Sector": 512099,
+   "Name": "Assemblers and Fabricators, All Other(512099)",
+   "Sangamon": "60",
+   "Illinois": 20520,
+   "USA": 230310,
+   "Share_in_total_occupation": "0.06",
+   "LQ_Sangamon_IL": "0.16",
+   "LQ_Sangamon_USA": "0.34"
+ },
+ {
+   "Sector": 513011,
+   "Name": "Bakers(513011)",
+   "Sangamon": "80",
+   "Illinois": 7390,
+   "USA": 180450,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.629",
+   "LQ_Sangamon_USA": "0.61"
+ },
+ {
+   "Sector": 514041,
+   "Name": "Machinists(514041)",
+   "Sangamon": "80",
+   "Illinois": 33940,
+   "USA": 391120,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.136",
+   "LQ_Sangamon_USA": "0.28"
+ },
+ {
+   "Sector": 514121,
+   "Name": "Welders, Cutters, Solderers, and Brazers(514121)",
+   "Sangamon": "160",
+   "Illinois": 13080,
+   "USA": 382730,
+   "Share_in_total_occupation": "0.15",
+   "LQ_Sangamon_IL": "0.679",
+   "LQ_Sangamon_USA": "0.55"
+ },
+ {
+   "Sector": 515111,
+   "Name": "Prepress Technicians and Workers(515111)",
+   "Sangamon": "           NA",
+   "Illinois": 1460,
+   "USA": 33340,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 515112,
+   "Name": "Printing Press Operators(515112)",
+   "Sangamon": "130",
+   "Illinois": 9360,
+   "USA": 169910,
+   "Share_in_total_occupation": "0.12",
+   "LQ_Sangamon_IL": "0.794",
+   "LQ_Sangamon_USA": "1.04"
+ },
+ {
+   "Sector": 516011,
+   "Name": "Laundry and DryNACleaning Workers(516011)",
+   "Sangamon": "           NA",
+   "Illinois": 9540,
+   "USA": 207710,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 518021,
+   "Name": "Stationary Engineers and Boiler Operators(518021)",
+   "Sangamon": "80",
+   "Illinois": 3180,
+   "USA": 33720,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "1.335",
+   "LQ_Sangamon_USA": "2.99"
+ },
+ {
+   "Sector": 518031,
+   "Name": "Water and Wastewater Treatment Plant and System Operators(518031)",
+   "Sangamon": "110",
+   "Illinois": 3900,
+   "USA": 115840,
+   "Share_in_total_occupation": "0.1",
+   "LQ_Sangamon_IL": "1.513",
+   "LQ_Sangamon_USA": "1.21"
+ },
+ {
+   "Sector": 519061,
+   "Name": "Inspectors, Testers, Sorters, Samplers, and Weighers(519061)",
+   "Sangamon": "90",
+   "Illinois": 23710,
+   "USA": 518950,
+   "Share_in_total_occupation": "0.08",
+   "LQ_Sangamon_IL": "0.202",
+   "LQ_Sangamon_USA": "0.22"
+ },
+ {
+   "Sector": 519083,
+   "Name": "Ophthalmic Laboratory Technicians(519083)",
+   "Sangamon": "           NA",
+   "Illinois": 1960,
+   "USA": 28570,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 519122,
+   "Name": "Painters, Transportation Equipment(519122)",
+   "Sangamon": "           NA",
+   "Illinois": 2230,
+   "USA": 54860,
+   "Share_in_total_occupation": "NA",
+   "LQ_Sangamon_IL": "NA",
+   "LQ_Sangamon_USA": "NA"
+ },
+ {
+   "Sector": 519199,
+   "Name": "Production Workers, All Other(519199)",
+   "Sangamon": "370",
+   "Illinois": 54000,
+   "USA": 251670,
+   "Share_in_total_occupation": "0.35",
+   "LQ_Sangamon_IL": "0.384",
+   "LQ_Sangamon_USA": "1.96"
+ },
+ {
+   "Sector": 530000,
+   "Name": "Transportation and Material Moving Occupations(530000)",
+   "Sangamon": "4360",
+   "Illinois": 473430,
+   "USA": 9731790,
+   "Share_in_total_occupation": "4.1",
+   "LQ_Sangamon_IL": "0.509",
+   "LQ_Sangamon_USA": "0.59"
+ },
+ {
+   "Sector": 531021,
+   "Name": "FirstNALine Supervisors of Helpers, Laborers, and Material Movers, Hand(531021)",
+   "Sangamon": "40",
+   "Illinois": 7120,
+   "USA": 183620,
+   "Share_in_total_occupation": "0.04",
+   "LQ_Sangamon_IL": "0.283",
+   "LQ_Sangamon_USA": "0.26"
+ },
+ {
+   "Sector": 531031,
+   "Name": "FirstNALine Supervisors of Transportation and MaterialNAMoving Machine and Vehicle Operators(531031)",
+   "Sangamon": "100",
+   "Illinois": 5760,
+   "USA": 202760,
+   "Share_in_total_occupation": "0.09",
+   "LQ_Sangamon_IL": "1",
+   "LQ_Sangamon_USA": "0.68"
+ },
+ {
+   "Sector": 533022,
+   "Name": "Bus Drivers, School or Special Client(533022)",
+   "Sangamon": "490",
+   "Illinois": 22530,
+   "USA": 515020,
+   "Share_in_total_occupation": "0.46",
+   "LQ_Sangamon_IL": "1.202",
+   "LQ_Sangamon_USA": "1.25"
+ },
+ {
+   "Sector": 533031,
+   "Name": "Driver/Sales Workers(533031)",
+   "Sangamon": "270",
+   "Illinois": 13170,
+   "USA": 426310,
+   "Share_in_total_occupation": "0.25",
+   "LQ_Sangamon_IL": "1.137",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 533032,
+   "Name": "Heavy and TractorNATrailer Truck Drivers(533032)",
+   "Sangamon": "550",
+   "Illinois": 66550,
+   "USA": 1704520,
+   "Share_in_total_occupation": "0.52",
+   "LQ_Sangamon_IL": "0.452",
+   "LQ_Sangamon_USA": "0.42"
+ },
+ {
+   "Sector": 533033,
+   "Name": "Light Truck or Delivery Services Drivers(533033)",
+   "Sangamon": "860",
+   "Illinois": 45750,
+   "USA": 858710,
+   "Share_in_total_occupation": "0.81",
+   "LQ_Sangamon_IL": "1.039",
+   "LQ_Sangamon_USA": "1.32"
+ },
+ {
+   "Sector": 533041,
+   "Name": "Taxi Drivers and Chauffeurs(533041)",
+   "Sangamon": "50",
+   "Illinois": 8110,
+   "USA": 188860,
+   "Share_in_total_occupation": "0.05",
+   "LQ_Sangamon_IL": "0.314",
+   "LQ_Sangamon_USA": "0.32"
+ },
+ {
+   "Sector": 536031,
+   "Name": "Automotive and Watercraft Service Attendants(536031)",
+   "Sangamon": "70",
+   "Illinois": 2970,
+   "USA": 109790,
+   "Share_in_total_occupation": "0.07",
+   "LQ_Sangamon_IL": "1.297",
+   "LQ_Sangamon_USA": "0.83"
+ },
+ {
+   "Sector": 537061,
+   "Name": "Cleaners of Vehicles and Equipment(537061)",
+   "Sangamon": "260",
+   "Illinois": 17910,
+   "USA": 348770,
+   "Share_in_total_occupation": "0.24",
+   "LQ_Sangamon_IL": "0.803",
+   "LQ_Sangamon_USA": "0.98"
+ },
+ {
+   "Sector": 537062,
+   "Name": "Laborers and Freight, Stock, and Material Movers, Hand(537062)",
+   "Sangamon": "880",
+   "Illinois": 145060,
+   "USA": 2587900,
+   "Share_in_total_occupation": "0.83",
+   "LQ_Sangamon_IL": "0.338",
+   "LQ_Sangamon_USA": "0.45"
+ },
+ {
+   "Sector": 537064,
+   "Name": "Packers and Packagers, Hand(537064)",
+   "Sangamon": "190",
+   "Illinois": 51330,
+   "USA": 705660,
+   "Share_in_total_occupation": "0.18",
+   "LQ_Sangamon_IL": "0.208",
+   "LQ_Sangamon_USA": "0.36"
+ }
+]

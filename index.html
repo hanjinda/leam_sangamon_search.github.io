@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en" class="no-js" lang="en" dir="ltr">
+<head>
+	<title>Sedac Sangamon Search Demo</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<script src="js/angularjstutorial-deps.js"></script>
+	<script src="js/angularjstutorial.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.21/angular.min.js"></script>
+	<link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+	<!-- <link rel="stylesheet" href="css/angularjstutorial.css"> -->
+</head>
+<body>
+
+	<div class="mainContainer" data-ng-app="RavensApp">
+		<div class="row">		
+      		<div class="large-12  text-center columns">
+       			<h1 ><a href="index.html"><b>Sangamon Industry LQ</b></a></h1>
+      		</div>      		
+    	</div>
+    
+    	<div class="large-2 text-center columns">
+			<p></p>
+		</div>	
+    	<div class="large-4 text-center columns">
+    		<center><input type="text"  placeholder="Search by Sector(eg:1100000 or edu)" data-ng-model="search.Sector"></center>
+		</div>
+    	<div class="large-4 text-center columns">
+			<center><input type="text" placeholder="Search by Character(eg:Management Occupations)" data-ng-model="search.$"></center>
+		</div>
+    	<div class="large-2 text-center columns">
+			<p></p>
+		</div>	
+		<div data-ng-controller="ravensCtrl"  class="large-12 columns">
+			<table class="table table-striped" >
+<!-- 			<table ng-show="(floorPlans = (population.sample | filter:search)) && floorPlans.length >= 3 && search && search.length >= 1"> -->
+				<thead>
+					<tr>				
+						<th>Sector</th>
+						<th>Name</th>
+						<th>Sangamon</th>
+						<th>Illinois</th>
+						<th>USA</th>
+						<th>Share_in_total_occupation</th>
+						<th>LQ_Sangamon_IL</th>
+						<th>LQ_Sangamon_USA</th>
+					</tr>
+				</thead>
+				<tbody>
+					<!-- <div ng-show="search"> -->
+						<tr  ng-show="search" data-ng-repeat="item in floorPlans | filter:search | orderBy:'Sector' | limitTo: 500 "> 
+							<td>{{item.Sector}}</td>
+							<td>{{item.Name}}</td>
+							<td>{{item.Sangamon}}</td>
+							<td>{{item.Illinois}}</td>
+							<td>{{item.USA}}</td>
+							<td>{{item.Share_in_total_occupation}}</td>
+							<td>{{item.LQ_Sangamon_IL}}</td>
+							<td>{{item.LQ_Sangamon_USA}}</td>	
+						</tr>
+					<!-- </div> -->
+				</tbody>
+			</table>
+		</div>
+
+		
+	</div>
+
+</body>
+</html>
